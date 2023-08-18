@@ -1,0 +1,45 @@
+[
+  {
+  "category_name":"Cricket",
+  "channels":[
+              {
+             "channels_name": "A SportsHD",
+             "channel_logo": "https://todayt20match.com/wp-content/uploads/2022/12/A-Sports-HD-Logo.png",
+             "channel_link": "https://stream.crichd.vip/update/asportshd.php"
+           },
+            {
+             "channels_name": "Willow HD",
+             "channel_logo": "https://static.toiimg.com/thumb/msid-80981860,width-400,resizemode-4/80981860.jpg",
+             "channel_link": "https://crichdplayer.com/willow-cricket-live-stream-play"
+           },
+            {
+             "channels_name": "PTV Sports HD",
+             "channel_logo": "https://todayt20match.com/wp-content/uploads/2022/12/A-Sports-HD-Logo.png",
+             "channel_link": "https://yt3.googleusercontent.com/v9dMHUrBHu0zfARHSR-O2yaa74i2a6yAAjZkW-hAxwr-VUxkWWAqqL6-KKTnNawCFhCe-_1h=s900-c-k-c0x00ffffff-no-rjy"
+           }]
+},
+{
+  "category_name": "Soccer",
+  "channels": [
+           {
+             "channels_name": "Bein Sports 1",
+             "channel_logo": "https://www.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png",
+             "channel_link": "https://stream.crichd.vip/update/asportshd.php"
+             
+           },
+            {
+             "channels_name": "Sky Sports",
+             "channel_logo": "https://yt3.googleusercontent.com/so_lrPh6XZG8QdMd5wMOFhLWAM8SfudqKoJhIe0vKUyk3LsQtNdCPvDtDtLSoTnZ4ZnrVLVm6Q=s900-c-k-c0x00ffffff-no-rj",
+             "channel_link": "https://crichdplayer.com/willow-cricket-live-stream-play"
+           },
+            {
+             "channels_name": "Super Sports",
+             "channel_logo": "https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png",
+             "channel_link": "https://yt3.googleusercontent.com/v9dMHUrBHu0zfARHSR-O2yaa74i2a6yAAjZkW-hAxwr-VUxkWWAqqL6-KKTnNawCFhCe-_1h=s900-c-k-c0x00ffffff-no-rjy"
+           }
+    
+     ]
+  
+}
+  
+]

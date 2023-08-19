@@ -1,0 +1,20 @@
+[
+  {
+    "channel_link": "https://crichdstreaming.cc/embed2.php?id=skysp1",
+    "channel_logo": "https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg",
+    "channels_name": "SkySports Mainevent",
+    "category_name": "Soccer"
+  },
+ {
+    "channel_link": "https://crichdstreaming.cc/embed2.php?id=skysp5",
+    "channel_logo": "https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg",
+    "channels_name": "SkySports Premier",
+   "category_name": "Soccer"
+  },
+{
+    "channel_link": "https://crichdstreaming.cc/embed2.php?id=supersp9",
+    "channel_logo": "https://gdplayer.tv/assets/img/logo/supersport-premier-league.png",
+    "channels_name": "SuperSports Premier",
+  "category_name": "Soccer"
+  }
+]

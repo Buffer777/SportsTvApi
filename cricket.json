@@ -1,32 +1,20 @@
 [
   {
-    "channel_link": "https://stream.crichd.vip/update/ch20.php",
-    "channel_logo": "https://play-lh.googleusercontent.com/wdXEB3UaGtdyzjXCRFZ_995H1Pnfwvca34MQ0-nAH8ERFWF5xAVg1hlrfCXysH2SuPoE=w240-h480-rw",
-    "channels_name": "Ptv Sports Link1",
+    "channel_link": "https://stream.crichd.vip/update/ptv.php",
+    "channel_logo": "https://resources.pulse.icc-cricket.com/photo-resources/2023/06/27/8de5b33c-5fc2-4260-9674-c5b65dfa51ca/CWC23-Fixtures-announcement-16x9-v2.jpeg?width=500&height=500",
+    "channels_name": "Channel Link1",
     "category_name": "Cricket"
   },
  {
-    "channel_link": "https://stream.crichd.vip/update/ptv.php",
-    "channel_logo": "https://play-lh.googleusercontent.com/wdXEB3UaGtdyzjXCRFZ_995H1Pnfwvca34MQ0-nAH8ERFWF5xAVg1hlrfCXysH2SuPoE=w240-h480-rw",
-    "channels_name": "Ptv Sports Link2",
+    "channel_link": "https://stream.crichd.vip/update/skys2.php",
+    "channel_logo": "https://resources.pulse.icc-cricket.com/photo-resources/2023/06/27/8de5b33c-5fc2-4260-9674-c5b65dfa51ca/CWC23-Fixtures-announcement-16x9-v2.jpeg?width=500&height=500",
+    "channels_name": "Channel Link2",
    "category_name": "Cricket"
   },
-{
-    "channel_link": "https://daddylivehd.click/stream/stream-65.php",
-    "channel_logo": "https://play-lh.googleusercontent.com/AWaSVmRPTZpu48GOuSPWkBW8KhuQVos50VesZDTX7OEc99QovspuBJfCAjAO6795riw=w240-h480-rw",
-    "channels_name": "Sky Sports Cric",
-  "category_name": "Cricket"
-  },
- {
-    "channel_link": "https://crichdplayer.com/tnt-sports-3-live-stream",
-    "channel_logo": "https://becleverwithyourcash.com/wp-content/uploads/2021/04/BT_sport_deals-1200x900.png",
-    "channels_name": "BtSports",
+   {
+    "channel_link": "http://starshare.live:8080/live/542974874869/329846549059/43444.m3u8",
+    "channel_logo": "https://resources.pulse.icc-cricket.com/photo-resources/2023/06/27/8de5b33c-5fc2-4260-9674-c5b65dfa51ca/CWC23-Fixtures-announcement-16x9-v2.jpeg?width=500&height=500",
+    "channels_name": "Channel Link3",
    "category_name": "Cricket"
-  },
-{
-    "channel_link": "https://stream.crichd.vip/update/willowcricket.php",
-    "channel_logo": "https://www.dishpromotions.com/wp-content/uploads/WLLOW-logo.png",
-    "channels_name": "Willow HD",
-  "category_name": "Cricket"
   }
 ]

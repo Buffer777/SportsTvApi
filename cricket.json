@@ -2,8 +2,43 @@
   {
     "channel_link": "https://stream.crichd.vip/update/ptv.php",
     "channel_logo": "https://github.com/Buffer777/FootballUrl/blob/main/cricket_generic.jpg?raw=true",
-    "channels_name": "Cricket 1",
+    "channels_name": "Pak Vs Aus",
+    "category_name": "Cricket"
+  },
+  {
+    "channel_link": "https://crichdstreaming.xyz/embed2.php?id=skysp2",
+    "channel_logo": "https://github.com/Buffer777/FootballUrl/blob/main/cricket_generic.jpg?raw=true",
+    "channels_name": "Pak Vs Aus",
+    "category_name": "Cricket"
+  },
+  {
+    "channel_link": "https://me.webcric.com/watch-live-cricket-streaming-3.htm",
+    "channel_logo": "https://github.com/Buffer777/FootballUrl/blob/main/cricket_generic.jpg?raw=true",
+    "channels_name": "Pak Vs Aus",
+    "category_name": "Cricket"
+  },
+  {
+    "channel_link": "https://stream.crichd.vip/update/willowcricket.php",
+    "channel_logo": "https://github.com/Buffer777/FootballUrl/blob/main/cricket_generic.jpg?raw=true",
+    "channels_name": "Ind Vs Ned",
+    "category_name": "Cricket"
+  },
+  {
+    "channel_link": "https://crichdstreaming.xyz/embed2.php?id=skymix",
+    "channel_logo": "https://github.com/Buffer777/FootballUrl/blob/main/cricket_generic.jpg?raw=true",
+    "channels_name": "Ind Vs Ned",
+    "category_name": "Cricket"
+  },
+  {
+    "channel_link": "https://me.webcric.com/watch-world-cup-warm-up-live-cricket-streaming-1.htm",
+    "channel_logo": "https://github.com/Buffer777/FootballUrl/blob/main/cricket_generic.jpg?raw=true",
+    "channels_name": "Ind Vs Ned",
+    "category_name": "Cricket"
+  },
+  {
+    "channel_link": "https://stream.crichd.vip/update/ch8.php",
+    "channel_logo": "https://github.com/Buffer777/FootballUrl/blob/main/cricket_generic.jpg?raw=true",
+    "channels_name": "Afg Vs Sri",
     "category_name": "Cricket"
   }
-  
 ]

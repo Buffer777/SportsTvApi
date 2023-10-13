@@ -1,34 +1,19 @@
 {
   "yt_football_score": [
     {
-      "channelImageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cricket_ball.svg/2048px-Cricket_ball.svg.png",
-      "channelLink": "https://www.google.com/search?q=cricet&rlz=1C5CHFA_enPK1035PK1035&oq=cricet&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIPCAEQABgKGIMBGLEDGIAEMg8IAhAAGAoYgwEYsQMYgAQyDwgDEAAYChiDARixAxiABDIPCAQQABgKGIMBGLEDGIAEMg8IBRAuGAoYgwEYsQMYgAQyDwgGEAAYChiDARixAxiABDIMCAcQABgKGLEDGIAEMg8ICBAAGAoYgwEYsQMYgAQyDwgJEAAYChiDARixAxiABNIBCDcyMjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#sie=lg;/g/11s3y7wsbk;5;/m/021q23;mt;fp;1;;;",
-      "channelName": "Live Scores"
+      "channelImageLink": "https://static.wixstatic.com/media/0d1eb2_a4a40256e443404597d9454fa89921a5~mv2.jpg/v1/fill/w_300,h_300,al_c,q_90/file.jpg",
+      "channelLink": "https://www.espn.in/football/scoreboard",
+      "channelName": "ESPN - Live Scores"
     },
     {
-      "channelImageLink": "https://play-lh.googleusercontent.com/DR77tjTRELjjz08osmWgvIFyUvkbQItRf0II8r-eaIzLDOH9YGxSIfIrcToj3IOriyc",
-      "channelLink": "https://www.cricbuzz.com/cricket-match/live-scores",
-      "channelName": "Cricbuzz"
+      "channelImageLink": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/08/f3/3e08f393-e101-25cd-b0b2-109639e1b112/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp",
+      "channelLink": "https://m.aiscore.com/",
+      "channelName": "AiScore"
     },
     {
-      "channelImageLink": "https://th.bing.com/th/id/R.36633a41f171c9b1d2a33ff1646776a5?rik=WBxZtJm%2bJuaesQ&riu=http%3a%2f%2fadorecricket.com%2fwp-content%2fuploads%2fICC_Cricket_Logo.png&ehk=dzQzj0BCe8YrwjbM218TaLbfvU2Xr8j0nyuFo0wJQZw%3d&risl=&pid=ImgRaw&r=0",
-      "channelLink": "https://www.icc-cricket.com/live-cricket/live",
-      "channelName": "ICC"
-    },
-    {
-       "channelImageLink": "https://img.utdstc.com/icon/3e5/fef/3e5fefa9d999d2b60d86f9d33f54182a1db62d9effc4c793f4d3c6614ddbe458:200",
-      "channelLink": "https://www.cricketlineguru.com/cricket-schedule/recent/all",
-      "channelName": "Cricket Line Guru"
-    },
-    {
-      "channelImageLink": "https://th.bing.com/th/id/OIP.2uBJHtgFj95dVafP0JqF8gHaHa?pid=ImgDet&rs=1",
-      "channelLink": "https://www.cricketmazza.com/live",
-      "channelName": "Cricket Mazza 11"
-    },
-    {
-      "channelImageLink": "https://png.pngtree.com/png-vector/20190226/ourmid/pngtree-vector-cricket-icon-png-image_705713.jpg",
-      "channelLink": "https://crickslab.com/match-central",
-      "channelName": "Cricket Lab"
+      "channelImageLink": "https://thumbs.dreamstime.com/z/football-logo-vector-template-design-illustration-148661806.jpg",
+      "channelLink": "https://www.goal.com/en/live-scores",
+      "channelName": "Goal - Live Score"
     }
   ]
 }

@@ -1,7 +1,82 @@
 {
   "data": [
     {
-      "name": "pak"
+      "name": "pk"
+    },
+    {
+      "name": "am"
+    },
+    {
+      "name": "az"
+    },
+    {
+      "name": "dk"
+    },
+    {
+      "name": "fo"
+    },
+    {
+      "name": "de"
+    },
+    {
+      "name": "gl"
+    },
+    {
+      "name": "gu"
+    },
+    {
+      "name": "in"
+    },
+    {
+      "name": "it"
+    },
+    {
+      "name": "mv"
+    },
+    {
+      "name": "mh"
+    },
+    {
+      "name": "mp"
+    },
+    {
+      "name": "om"
+    },
+    {
+      "name": "pw"
+    },
+    {
+      "name": "pr"
+    },
+    {
+      "name": "ru"
+    },
+    {
+      "name": "sc"
+    },
+    {
+      "name": "es"
+    },
+    {
+      "name": "ch"
+    },
+    {
+      "name": "tj"
+    },
+    {
+      "name": "th"
+    },
+    {
+      "name": "gb"
+    },
+    {
+      "name": "ae"
+    },
+    {
+      "name": "us"
+    },
+    {
+      "name": "vi"
     }
   ]
 }

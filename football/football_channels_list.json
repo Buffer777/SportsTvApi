@@ -1,0 +1,24 @@
+{
+  "yt_football_channels": [
+    {
+      "channelImageLink": "https://yt3.googleusercontent.com/ytc/APkrFKY-UzFcWp2I_4ZArFBuad9OZqRiHcrcyVK20_uDyg=s176-c-k-c0x00ffffff-no-rj",
+      "channelLink": "https://www.youtube.com/@footballhighlights7363/videos",
+      "channelName": "Football Highlights"
+    },
+    {
+      "channelImageLink": "https://yt3.googleusercontent.com/GV75cdGEHaUZnQ_oJIzj_tGzLZCX2RyDKhn_75fFW6Mf_dpi8Fn6TaevTNhbrtLLBpk0upYt=s176-c-k-c0x00ffffff-no-rj",
+      "channelLink": "https://www.youtube.com/@fifa/videos",
+      "channelName": "FIFA"
+    },
+    {
+      "channelImageLink": "https://yt3.googleusercontent.com/OVP6IGRLXliriQ3Dd-Db-CcdD6yNnj0AssbIFYW8wLPyvmTxib80C0q5TOS2vEtL9IarzQNolxQ=s176-c-k-c0x00ffffff-no-rj",
+      "channelLink": "https://www.youtube.com/@LaLiga/videos",
+      "channelName": "LaLiga"
+    },
+    {
+      "channelImageLink": "https://yt3.googleusercontent.com/yX3Sc83j0HB_tynX0I7FRlbb4cztxthv4-8nb2iWYJe2iByjlejasA3AbQORT3Fd55X8bhr3_w=s176-c-k-c0x00ffffff-no-rj",
+      "channelLink": "https://www.youtube.com/@FootballTherapy/videos",
+      "channelName": "Football Therapy"
+    }
+  ]
+}

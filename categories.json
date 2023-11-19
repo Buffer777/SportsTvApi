@@ -1,10 +1,5 @@
 [
   {
-    "id": "wc.json",
-    "name": "🏆 Cricket WorldCup 2023",
-    "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-  },
-  {
     "id": "cricket.json",
     "name": "🏏 Cricket",
     "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
@@ -13,15 +8,5 @@
     "id": "soccer.json",
     "name": "⚽ Soccer",
     "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-  },
-  {
-    "id": "uefa.json",
-    "name": "⚽ UEFA Euro Qualifying",
-    "icon": "https://m.media-amazon.com/images/M/MV5BY2ZjZmFmOTEtZWNhYy00MTMzLThkNTctNzI3ZjU0MTZhZTczXkEyXkFqcGdeQXVyMTE2MTY1NDg3._V1_.jpg"
-  },
-  {
-    "id": "wsl.json",
-    "name": "⚽ England - Women's Super League",
-    "icon": "https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt5264527aa1132a94/60571a50cc77b20f047a8efe/Womens-FAa.jpg"
   }
 ]

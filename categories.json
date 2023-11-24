@@ -13,5 +13,10 @@
     "id": "soccer.json",
     "name": "⚽ Soccer",
     "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+  },
+   {
+    "id": "basketball.json",
+    "name": "🏀 Euroleague Basketball",
+    "icon": "https://www.euroleaguebasketball.net/images/og-images/euroleague.jpg"
   }
 ]

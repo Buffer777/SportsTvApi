@@ -4,9 +4,14 @@
     "name": "🏏 India Vs Australia",
     "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
   },
+    {
+    "id": "newVsBan.json",
+    "name": "🏏 Bangladesh Vs New Zealand",
+    "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+  },
   {
-    "id": "cricket.json",
-    "name": "🏏 Cricket",
+    "id": "t10.json",
+    "name": "🏏 Abu Dhabi T10 League",
     "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
   },
   {

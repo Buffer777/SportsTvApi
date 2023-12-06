@@ -8,5 +8,10 @@
     "id": "t10.json",
     "name": "🏏 Abu Dhabi T10 League",
     "icon": "https://m.media-amazon.com/images/M/MV5BOTY3MjBhMWQtNTMxZC00YWU2LTk3NmMtODMxMzAxMDY5MDFiXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_UX630_CR0,0,630,1200_AL_.jpg"
+  },
+    {
+    "id": "newVsBan.json",
+    "name": "🏏 Bangladesh Vs New Zealand",
+    "icon": "https://crickettimes.com/wp-content/uploads/2023/09/BAN-vs-NZ-ODI-Series-Broadcast-Details.webp"
   }
 ]

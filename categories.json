@@ -1,12 +1,17 @@
 [
    {
-      "id":"bbl.json",
-      "name":"🏏 BBL 2023-24",
+      "id":"indVsza.json",
+      "name":"🏏 India Vs South Africa",
       "icon":"https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
    },
    {
-      "id":"EngVsWes.jsonn",
+      "id":"EngVsWes.json",
       "name":"🏏 WestIndies Vs England",
+      "icon":"https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+   },
+   {
+      "id":"bbl.json",
+      "name":"🏏 BBL 2023-24",
       "icon":"https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
    },
    {
@@ -19,12 +24,6 @@
       "name":"🏏 Pakistan Vs Australia",
       "icon":"https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
    },
-   {
-      "id":"indVsza.jsonn",
-      "name":"🏏 India Vs South Africa",
-      "icon":"https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-   },
-   
    {
       "id":"soccer.json",
       "name":"⚽ Soccer",

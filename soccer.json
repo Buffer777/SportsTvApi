@@ -2,73 +2,37 @@
   {
     "channel_link": "https://v3.sportsonline.so/channels/hd/hd11.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Konyaspor x Kayserispor",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://v3.sportsonline.so/channels/hd/hd2.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Motherwell x Rangers",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://v3.sportsonline.so/channels/pt/sporttv2.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Motherwell x Rangers",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://v3.sportsonline.so/channels/hd/hd1.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Wolverhampton Wanderers x Chelsea",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://v3.sportsonline.so/channels/pt/eleven1.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Wolverhampton Wanderers x Chelsea",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://v3.sportsonline.so/channels/bra/br2.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Wolverhampton Wanderers x Chelsea",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://v3.sportsonline.so/channels/hd/hd11.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Adana Demirspor x Antalyaspor",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://v3.sportsonline.so/channels/hd/hd5.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Fenerbahçe x Galatasaray",
+    "channels_name": "Manisa BBSK x Şanlıurfaspor",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://v3.sportsonline.so/channels/hd/hd10.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Fenerbahçe x Galatasaray",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://v3.sportsonline.so/channels/pt/sporttv1.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Fenerbahçe x Galatasaray",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://v3.sportsonline.so/channels/bra/br2.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Fenerbahçe x Galatasaray",
+    "channels_name": "Kasımpaşa x Rizespor",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://v3.sportsonline.so/channels/hd/hd11.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Altay x Keçiörengücü",
+    "channels_name": "Alanyaspor x Samsunspor",
+    "category_name": "⚽ Soccer"
+  },
+  {
+    "channel_link": "https://v3.sportsonline.so/channels/hd/hd10.php",
+    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
+    "channels_name": "Hatayspor x Beşiktaş",
+    "category_name": "⚽ Soccer"
+  },
+  {
+    "channel_link": "https://v3.sportsonline.so/channels/pt/sporttv2.php",
+    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
+    "channels_name": "Hatayspor x Beşiktaş",
+    "category_name": "⚽ Soccer"
+  },
+  {
+    "channel_link": "https://v3.sportsonline.so/channels/hd/hd11.php",
+    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
+    "channels_name": "Pendikspor x Ankaragücü",
     "category_name": "⚽ Soccer"
   }
 ]

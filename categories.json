@@ -1,7 +1,13 @@
 [
-  {
-      "id":"cricket.json",
-      "name":"🏏 Cricket",
+  
+   {
+      "id":"PakvsAus.json",
+      "name":"🏏 Pakistan Vs Australia",
+      "icon":"https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+   },
+   {
+      "id":"indVsza.json",
+      "name":"🏏 India Vs South Africa",
       "icon":"https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
    },
    {
@@ -12,16 +18,6 @@
    {
       "id":"soccer.json",
       "name":"⚽ Soccer",
-      "icon":"https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-   },
-   {
-      "id":"PakvsAus.jsonn",
-      "name":"🏏 Pakistan Vs Australia",
-      "icon":"https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-   },
-   {
-      "id":"indVsza.jsonn",
-      "name":"🏏 India Vs South Africa",
       "icon":"https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
    }
    

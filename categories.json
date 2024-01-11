@@ -1,12 +1,8 @@
 [
+    
     {
-        "id": "IndVsAf.json",
-        "name": "🏏 India Vs Afghanistan",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-    },
-    {
-        "id": "SrivsZim.json",
-        "name": "🏏 Srilanka Vs Zimbabwe",
+        "id": "PakVsNz.json",
+        "name": "🏏 Pakistan Vs New Zealand",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     },
     {
@@ -22,6 +18,16 @@
     {
         "id": "soccer.json",
         "name": "⚽ Soccer",
+        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+    },
+    {
+        "id": "IndVsAf.jsonn",
+        "name": "🏏 India Vs Afghanistan",
+        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+    },
+    {
+        "id": "SrivsZim.jsonn",
+        "name": "🏏 Srilanka Vs Zimbabwe",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     }
 ]

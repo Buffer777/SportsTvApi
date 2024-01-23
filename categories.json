@@ -1,6 +1,11 @@
 [
    
    {
+      "id":"u19.json",
+      "name":"🏏 U19 Cricket Worldcup",
+      "icon":"https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+   },
+   {
       "id":"sa2024.json",
       "name":"🏏 SA20 2024",
       "icon":"https://cdn-icons-png.flaticon.com/512/6749/6749936.png"

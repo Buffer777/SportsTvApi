@@ -5,11 +5,6 @@
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     },
     {
-        "id": "AusVsWes.json",
-        "name": "🏏 Australia Vs WestIndies",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-    },
-    {
         "id": "SrivsAfg.json",
         "name": "🏏 Srilanka Vs Afghanistan",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
@@ -25,8 +20,23 @@
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     },
     {
+        "id": "ilt20.json",
+        "name": "🏏 ILT20 2024",
+        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+    },
+    {
+        "id": "bpl.json",
+        "name": "🏏 BPL 2024",
+        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+    },
+    {
         "id": "soccer.json",
         "name": "⚽ Soccer",
+        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+    },
+    {
+        "id": "AusVsWes.jsonn",
+        "name": "🏏 Australia Vs WestIndies",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     }
 ]

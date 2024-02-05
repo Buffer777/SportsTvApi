@@ -1,494 +1,176 @@
 [
   {
-    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Hong Kong x Inter Miami",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Leixões x Nacional",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv2.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Marítimo W x SL Benfica W",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd7.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Torino x Salernitana",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd1.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Middlesbrough x Sunderland",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Middlesbrough x Sunderland",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Monaco x Le Havre",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd4.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Monaco x Le Havre",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven1.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Monaco x Le Havre",
-    "category_name": "⚽ Soccer"
-  },
-  {
     "channel_link": "https://sportsonline.si/channels/hd/hd3.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Paderborn x Fortuna Düsseldorf",
+    "channels_name": "Bayern München W x Freiburg W",
     "category_name": "⚽ Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
+    "channel_link": "https://sportsonline.si/channels/bra/br3.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Villarreal x Cádiz",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "AZ x Feyenoord",
+    "channels_name": "Madureira x Portuguesa RJ",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/pt/sporttv4.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "AZ x Feyenoord",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd1.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Manchester United x West Ham United",
+    "channels_name": "Madureira x Portuguesa RJ",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd8.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Manchester United x West Ham United",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven1.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Manchester United x West Ham United",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br4.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Manchester United x West Ham United",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd2.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Chelsea x Wolverhampton Wanderers",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven2.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Chelsea x Wolverhampton Wanderers",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Chelsea x Wolverhampton Wanderers",
+    "channels_name": "Trento x Fiorenzuola",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "AFC Bournemouth x Nottingham Forest",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven3.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "AFC Bournemouth x Nottingham Forest",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br5.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "AFC Bournemouth x Nottingham Forest",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Napoli x Hellas Verona",
+    "channels_name": "Roma x Cagliari",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd7.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Napoli x Hellas Verona",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv3.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Napoli x Hellas Verona",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd4.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Lille x Clermont",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Corinthians x Novorizontino",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd3.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Wolfsburg x Hoffenheim",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Osasuna x Celta de Vigo",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Al Faisaly x Al Ittihad",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv5.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Al Faisaly x Al Ittihad",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Vizela x Vitória Guimarães",
+    "channels_name": "Roma x Cagliari",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/pt/sporttv2.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Chaves x Farense",
+    "channels_name": "Roma x Cagliari",
     "category_name": "⚽ Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv4.php",
+    "channel_link": "https://sportsonline.si/channels/bra/br5.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Feirense x Academico Viseu",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Beşiktaş x Trabzonspor",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv3.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Beşiktaş x Trabzonspor",
+    "channels_name": "Roma x Cagliari",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd4.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Brest x Nice",
+    "channels_name": "Bastia x Ajaccio",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd1.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Arsenal x Liverpool",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd8.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Arsenal x Liverpool",
+    "channels_name": "Brentford x Manchester City",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/pt/eleven1.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Arsenal x Liverpool",
+    "channels_name": "Brentford x Manchester City",
+    "category_name": "⚽ Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
+    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
+    "channels_name": "Brentford x Manchester City",
+    "category_name": "⚽ Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd2.php",
+    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
+    "channels_name": "Rayo Vallecano x Sevilla",
+    "category_name": "⚽ Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
+    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
+    "channels_name": "Rayo Vallecano x Sevilla",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/pt/eleven2.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Arsenal x Liverpool",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Arsenal x Liverpool",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd3.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "RB Leipzig x Union Berlin",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Atalanta x Lazio",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd7.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Atalanta x Lazio",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br5.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Atalanta x Lazio",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd2.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Real Betis x Getafe",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Real Betis x Getafe",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven3.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Real Betis x Getafe",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/btv.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Benfica x Gil Vicente",
+    "channels_name": "Rayo Vallecano x Sevilla",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/bra/br4.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Benfica x Gil Vicente",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Estoril x Estrela",
+    "channels_name": "Rayo Vallecano x Sevilla",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Panathinaikos x Olympiakos Piraeus",
+    "channels_name": "Godoy Cruz x Lanús",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/bra/br1.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Palmeiras x São Paulo",
+    "channels_name": "Brazil x Paraguay",
     "category_name": "⚽ Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/bra/br3.php",
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Boavista x Fluminense",
+    "channels_name": "Casa Pia x Boavista",
     "category_name": "⚽ Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv3.php",
+    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Boavista x Fluminense",
+    "channels_name": "Tigre x Boca Juniors",
     "category_name": "⚽ Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
+    "channel_link": "https://sportsonline.si/channels/bra/br5.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Bahia x Sport Recife",
+    "channels_name": "Tigre x Boca Juniors",
+    "category_name": "⚽ Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
+    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
+    "channels_name": "Argentina x Venezuela",
+    "category_name": "⚽ Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
+    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
+    "channels_name": "Deportivo Pasto x Jaguares de Córdoba",
+    "category_name": "⚽ Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
+    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
+    "channels_name": "Peñarol x Boston River",
+    "category_name": "⚽ Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
+    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
+    "channels_name": "Banfield x Instituto",
+    "category_name": "⚽ Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br5.php",
+    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
+    "channels_name": "Estudiantes x Racing Club",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd1.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Internazionale x Juventus",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd7.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Internazionale x Juventus",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv2.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Internazionale x Juventus",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br5.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Internazionale x Juventus",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Olympique Lyonnais x Olympique Marseille",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd4.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Olympique Lyonnais x Olympique Marseille",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd2.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Real Madrid x Atlético Madrid",
+    "channels_name": "Super Bowl Opening Night",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Real Madrid x Atlético Madrid",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd3.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Real Madrid x Atlético Madrid",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd8.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Real Madrid x Atlético Madrid",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven1.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Real Madrid x Atlético Madrid",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br4.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Real Madrid x Atlético Madrid",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Sporting Braga x Moreirense",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Santos x Guarani",
+    "channels_name": "Medellín x Deportivo Cali",
     "category_name": "⚽ Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/bra/br1.php",
     "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Vasco da Gama x Flamengo",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br3.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Vasco da Gama x Flamengo",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "River Plate x Vélez Sarsfield",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br4.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Ponte Preta x São Bernardo",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br5.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Juventude x Ypiranga Erechim",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Rionegro Águilas x Atlético Nacional",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Atlas x Santos Laguna",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br3.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Audax Rio x Bangu",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Newell's Old Boys x Belgrano",
-    "category_name": "⚽ Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
-    "channel_logo": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-    "channels_name": "Alianza Petrolera x Junior",
+    "channels_name": "Brazil x Paraguay",
     "category_name": "⚽ Soccer"
   }
 ]

@@ -1,14 +1,4 @@
 [
-     {
-        "id": "AusVsWes.json",
-        "name": "🏏 Australia Vs WestIndies",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-    },
-     {
-        "id": "SrivsAfg.json",
-        "name": "🏏 Srilanka Vs Afghanistan",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-    },
     {
         "id": "u19.json",
         "name": "🏏 U19 Cricket Worldcup",
@@ -43,6 +33,17 @@
     {
         "id": "NzVsZa.jsonn",
         "name": "🏏 New Zealand Vs South Africa",
+        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+    },
+     
+     {
+        "id": "AusVsWes.jsonn",
+        "name": "🏏 Australia Vs WestIndies",
+        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+    },
+     {
+        "id": "SrivsAfg.jsonn",
+        "name": "🏏 Srilanka Vs Afghanistan",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     }
 ]

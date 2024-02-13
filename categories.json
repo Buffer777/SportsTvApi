@@ -1,6 +1,11 @@
 [
  
     {
+        "id": "SrivsAfg.json",
+        "name": "🏏 Srilanka Vs Afghanistan",
+        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+    },
+    {
         "id": "NzVsZa.json",
         "name": "🏏 New Zealand Vs South Africa",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
@@ -23,11 +28,6 @@
     {
         "id": "IndVsEng.jsonn",
         "name": "🏏 India Vs England",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-    },
-    {
-        "id": "SrivsAfg.jsonn",
-        "name": "🏏 Srilanka Vs Afghanistan",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     }
 ]

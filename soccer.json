@@ -1,194 +1,326 @@
 [
   {
-    "channel_link": "https://sportsonline.si/channels/hd/hd2.php",
+    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
     "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "PSG x Real Sociedad",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd4.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "PSG x Real Sociedad",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "PSG x Real Sociedad",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd8.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "PSG x Real Sociedad",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven1.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "PSG x Real Sociedad",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "PSG x Real Sociedad",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd1.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Lazio x Bayern M\u00fcnchen",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd3.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Lazio x Bayern M\u00fcnchen",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Lazio x Bayern M\u00fcnchen",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd7.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Lazio x Bayern M\u00fcnchen",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven2.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Lazio x Bayern M\u00fcnchen",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Lazio x Bayern M\u00fcnchen",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Millwall x Ipswich Town",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Ypiranga Erechim x Gr\u00eamio",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br4.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Volta Redonda x Botafogo",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php ",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Volta Redonda x Botafogo",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br5.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Fortaleza x R\u00edver",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Boca Juniors x Central C\u00f3rdoba SdE",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "S\u00e3o Paulo x Santos",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br3.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Atl\u00e9tico Mineiro x Tombense",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Once Caldas x Patriotas Boyac\u00e1",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Melgar x Aurora",
+    "channels_name": "Ulsan x Ventforet Kofu",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
     "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Melgar x Aurora",
+    "channels_name": "Navbahor x Al Ittihad",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/bra/br4.php",
+    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
     "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Fluminense x Vasco da Gama",
+    "channels_name": "Sepahan x Al Hilal",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php ",
+    "channel_link": "https://sportsonline.si/channels/hd/hd1.php",
     "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Fluminense x Vasco da Gama",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Internacional x Brasil de Pelotas",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
-"channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Atl\u00e9tico Tucum\u00e1n x River Plate",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "NOSSO FUTEBOL BR",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "N\u00e1utico x Cear\u00e1 | https://sportsonline.si/channels/bra/br5.php",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
-    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Botafogo SP x Corinthians",
+    "channels_name": "Feyenoord x Roma",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
     "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Tigres UANL x Vancouver Whitecaps",
+    "channels_name": "Feyenoord x Roma",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
     "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Boyac\u00e1 Chic\u00f3 x Medell\u00edn",
+    "channels_name": "Feyenoord x Roma",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd7.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Feyenoord x Roma",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv2.php ",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Feyenoord x Roma",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br4.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Feyenoord x Roma",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd3.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Union Saint-Gilloise x Eintracht Frankfurt",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd2.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Shakhtar Donetsk x Olympique Marseille",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd4.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Shakhtar Donetsk x Olympique Marseille",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv5.php ",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Shakhtar Donetsk x Olympique Marseille",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br5.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Shakhtar Donetsk x Olympique Marseille",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Young Boys x Sporting CP",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Young Boys x Sporting CP",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br3.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Young Boys x Sporting CP",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Galatasaray x Sparta Praha",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv3.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Galatasaray x Sparta Praha",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Olympiakos Piraeus x Ferencv\u00e1ros",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd8.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Molde x Legia Warszawa",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Nova Igua\u00e7u x Boavista",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd1.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Milan x Rennes",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd4.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Milan x Rennes",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd7.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Milan x Rennes",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv3.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Milan x Rennes",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Milan x Rennes",
+    "category_name": "\u26bd Soccer"
+},
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd2.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Benfica x Toulouse",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Benfica x Toulouse",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br4.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Benfica x Toulouse",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv2.php ",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Sporting Braga x Qaraba\u011f",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Real Betis x Dinamo Zagreb",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv5.php ",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Real Betis x Dinamo Zagreb",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br5.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Real Betis x Dinamo Zagreb",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Lens x Freiburg",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd3.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Lens x Freiburg",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Lens x Freiburg",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv4.php ",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Lens x Freiburg",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd8.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Maccabi Haifa x Gent",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
     "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
-    "channels_name": "Am\u00e9rica x Real Estel\u00ed",
+    "channels_name": "Ajax x Bod\u00f8 / Glimt",
     "category_name": "\u26bd Soccer"
-  }
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Servette x Ludogorets",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Portuguesa RJ x Audax Rio",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br3.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Athletico-PR x Oper\u00e1rio",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br5.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Inter de Limeira x Novorizontino",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "S\u00e3o Bernardo x Palmeiras",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Cruzeiro x Am\u00e9rica Mineiro | https://sportsonline.si/channels/bra/br4.php23:10   Deportes Tolima x Jaguares de C\u00f3rdoba",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Bangu x Flamengo",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Portuguesa x \u00c1gua Santa",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Nacional Asunci\u00f3n x Aucas",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Nacional Asunci\u00f3n x Aucas",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd1.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Inter Miami x Newell's Old Boys",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Toluca x Herediano",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Am\u00e9rica de Cali x Atl\u00e9tico Bucaramanga",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
+    "channel_logo": "https://img.freepik.com/free-vector/gradient-abstract-football-background_52683-66767.jpg?size=380&ext=jpg",
+    "channels_name": "Monterrey x Comunicaciones",
+    "category_name": "\u26bd Soccer"
+ }
 ]

@@ -1,13 +1,7 @@
 [
-   
     {
         "id": "psl.json",
         "name": "🏏 PSL 2024",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-    },
-     {
-        "id": "IndVsEng.json",
-        "name": "🏏 India Vs England",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     },
     {
@@ -15,7 +9,7 @@
         "name": "🏏 Srilanka Vs Afghanistan",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     },
-     {
+    {
         "id": "bpl.json",
         "name": "🏏 BPL 2024",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
@@ -33,6 +27,11 @@
     {
         "id": "NzVsAu.json",
         "name": "🏏 New Zealand Vs Australia",
+        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+    },
+    {
+        "id": "IndVsEng.jsonn",
+        "name": "🏏 India Vs England",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     }
 ]

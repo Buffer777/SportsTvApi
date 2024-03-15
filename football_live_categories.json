@@ -1,17 +1,7 @@
 [
   {
-    "id": "soccer.jsonn",
+    "id": "soccer.json",
     "name": "⚽ Soccer",
-    "icon": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg"
-  },
-  {
-    "id": "uefa.jsonn",
-    "name": "⚽ UEFA Euro Qualifying",
-    "icon": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg"
-  },
-  {
-    "id": "wsl.jsonn",
-    "name": "⚽ England - Women's Super League",
     "icon": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg"
   }
 ]

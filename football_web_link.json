@@ -2,18 +2,8 @@
   "yt_football_score": [
     {
       "channelImageLink": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-      "channelLink": "https://www.espn.in/football/scoreboard",
-      "channelName": "ESPN - Live Scores"
-    },
-    {
-      "channelImageLink": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-      "channelLink": "https://m.aiscore.com/",
-      "channelName": "AiScore"
-    },
-    {
-      "channelImageLink": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg",
-      "channelLink": "https://www.goal.com/en/live-scores",
-      "channelName": "Goal - Live Score"
+      "channelLink": "https://www.google.com/search?q=live+football+score&sca_esv=98989144458a5fc8&rlz=1C5CHFA_enPK996PK996&ei=3mj0ZdXZHsKB9u8P0eqosAY&oq=live+football+sc&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGxpdmUgZm9vdGJhbGwgc2MqAggAMg0QABiABBiKBRhDGLEDMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESM4TUJgHWLYKcAF4AZABAJgB6QGgAY0FqgEFMC4xLjK4AQPIAQD4AQGYAgSgAqYFwgIKEAAYRxjWBBiwA8ICDRAAGIAEGIoFGEMYsAPCAgoQABiABBiKBRhDmAMAiAYBkAYKkgcFMS4xLjKgB4YR&sclient=gws-wiz-serp",
+      "channelName": "Live Scores"
     }
   ]
 }

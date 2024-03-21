@@ -1,68 +1,206 @@
 [
   {
-    "channel_link": "https://sportsonline.si/channels/hd/hd1.php",
+    "channel_link": "https://sportsonline.si/channels/hd/hd2.php",
     "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "H\u00e4cken W x PSG W",
+    "channels_name": "Georgia x Luxembourg",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Georgia x Luxembourg",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Georgia x Luxembourg",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Cyprus x Latvia",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Russia x Serbia",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
     "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "San Marino vs St. Kitts and Nevis",
+    "channels_name": "Portugal U21 x Faroe Islands U21",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd8.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Malta x Slovenia",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd3.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "United Arab Emirates x Yemen",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd2.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Wales x Finland",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv3.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Wales x Finland",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd1.php",
     "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Brann W x Barcelona W",
+    "channels_name": "Portugal x Sweden",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
+    "channel_link": "https://sportsonline.si/channels/hd/hd3.php",
     "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "San Lorenzo x Godoy Cruz",
+    "channels_name": "Portugal x Sweden",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
+    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
     "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "R\u00edver x Altos",
+    "channels_name": "Portugal x Sweden",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/bra/br4.php",
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php",
     "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Am\u00e9rica RN x ABC",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Belgrano x Lan\u00fas",
+    "channels_name": "Portugal x Sweden",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/bra/br2.php",
     "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Fortaleza x Cear\u00e1",
+    "channels_name": "Portugal x Sweden",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/bra/br4.php",
+    "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
     "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Bahia x Vit\u00f3ria",
+    "channels_name": "Bosnia and Herzegovina x Ukraine",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv4.php",
     "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Sport Recife x N\u00e1utico",
+    "channels_name": "Bosnia and Herzegovina x Ukraine",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/bra/br5.php",
     "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "CRB x Juazeirense",
+    "channels_name": "Bosnia and Herzegovina x Ukraine",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Greece x Kazakhstan",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv2.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Greece x Kazakhstan",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br3.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Greece x Kazakhstan",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Israel x Iceland",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Poland x Estonia",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv5.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Poland x Estonia",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Defensa y Justicia x Atl\u00e9tico Rafaela",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd7.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Italy x Venezuela",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Italy x Venezuela",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br3.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Itabaiana x Maranh\u00e3o",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br4.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Treze x Botafogo PB",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "USA x Jamaica",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Racing Club x San Mart\u00edn Burzaco",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Ecuador x Guatemala",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Once Caldas x Bogot\u00e1",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
+    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
+    "channels_name": "Panama x Mexico",
     "category_name": "\u26bd Soccer"
   }
 ]

@@ -1,24 +1,17 @@
 [
     {
-        "id": "psl.json",
-        "name": "🏏 PSL 2024",
+        "id": "SriVsBan.json",
+        "name": "🏏 Srilanka Vs Bangladesh",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     },
-    {
-        "id": "IrevsAfg.json",
-        "name": "🏏 Ireland Vs Afghanistan",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-    }
-   ,
     {
         "id": "soccer.json",
         "name": "⚽ Soccer",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     },
-     {
-        "id": "SriVsBan.jsonn",
-        "name": "🏏 Srilanka Vs Bangladesh",
+    {
+        "id": "ipl.jsonn",
+        "name": "🏏 IPL 2024",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     }
-    
 ]

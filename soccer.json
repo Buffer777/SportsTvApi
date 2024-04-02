@@ -1,392 +1,260 @@
 [
   {
-    "channel_link": "https://sportsonline.si/channels/hd/hd2.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Livingston x Celtic",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Lorient x Brest",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd4.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Lorient x Brest",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven3.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Lorient x Brest",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd3.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Schalke 04 x Karlsruher SC",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Celta de Vigo x Rayo Vallecano",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven2.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Celta de Vigo x Rayo Vallecano",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd8.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "LASK Linz x Austria Klagenfurt",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Feyenoord x Utrecht",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Twente x Heracles",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd1.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Liverpool x Brighton & Hove Albion",
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv4.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Galatasaray x Hatayspor",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd2.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Liverpool x Brighton & Hove Albion",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven1.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Liverpool x Brighton & Hove Albion",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br3.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Liverpool x Brighton & Hove Albion",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Nice x Nantes",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd4.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Nice x Nantes",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Rivers United x USM Alger",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd3.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Augsburg x K\u00f6ln",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Newcastle United x Everton",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/pt/eleven3.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Augsburg x K\u00f6ln",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Girona x Real Betis",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven2.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Girona x Real Betis",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Newcastle United x Everton",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/bra/br5.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Girona x Real Betis",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Almere City x Volendam",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Panathinaikos x PAOK",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Newcastle United x Everton",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Strasbourg x Rennes",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd4.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Strasbourg x Rennes",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd1.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Manchester City x Arsenal",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd2.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Manchester City x Arsenal",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Nottingham Forest x Fulham",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/pt/eleven1.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Manchester City x Arsenal",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Manchester City x Arsenal",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd3.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Stuttgart x Heidenheim",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven3.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Stuttgart x Heidenheim",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Stuttgart x Heidenheim",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Deportivo Alav\u00e9s x Real Sociedad",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven2.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Deportivo Alav\u00e9s x Real Sociedad",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br5.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Deportivo Alav\u00e9s x Real Sociedad",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd8.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Sint-Truiden x Westerlo",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Vizela x Casa Pia",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd3.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Bochum x Darmstadt 98",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Nottingham Forest x Fulham",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "AEK Athens x Olympiakos Piraeus",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Burnley x Wolverhampton Wanderers",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Universidad Cat\u00f3lica x Orense",
+    "channel_link": "https://sportsonline.si/channels/hd/hd4.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Olympique Lyonnais x Valenciennes",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/bra/br3.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Vila Nova x Atl\u00e9tico",
+    "channel_link": "https://sportsonline.si/channels/hd/hd3.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Saarbr\u00fccken x Kaiserslautern",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/bra/br6.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Vit\u00f3ria x Bahia",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Olympique Marseille x PSG",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd4.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Olympique Marseille x PSG",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven2.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Olympique Marseille x PSG",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br5.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Olympique Marseille x PSG",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd2.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Real Madrid x Athletic Club",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Real Madrid x Athletic Club",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/pt/eleven1.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Real Madrid x Athletic Club",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Real Madrid x Athletic Club",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Saarbr\u00fccken x Kaiserslautern",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd9.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Future x Zamalek",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Juventus x Lazio",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv2.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Future x Zamalek",
+    "channel_link": "https://sportsonline.si/channels/hd/hd7.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Juventus x Lazio",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Sport Boys x Alianza Atl\u00e9tico",
-    "category_name": "\u26bd Soccer"
-  },
-  {
-    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Santos x Palmeiras",
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv3.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Juventus x Lazio",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/bra/br3.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Santos x Palmeiras",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Juventus x Lazio",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Deportivo Pereira x Atl\u00e9tico Bucaramanga",
+    "channel_link": "https://sportsonline.si/channels/hd/hd8.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Abha x Al Nassr",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Botafogo x Boavista",
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv2.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Abha x Al Nassr",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/bra/br4.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Botafogo x Boavista",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Abha x Al Nassr",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Atlas x Quer\u00e9taro",
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv5.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Al Hilal x Al Akhdoud",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Olimpia x Vida",
+    "channel_link": "https://sportsonline.si/channels/hd/hd1.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "West Ham United x Tottenham Hotspur",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/eleven2.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "West Ham United x Tottenham Hotspur",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "West Ham United x Tottenham Hotspur",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Benfica x Sporting CP",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Millonarios x Flamengo",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Medell\u00edn x Am\u00e9rica de Cali",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Millonarios x Flamengo",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv2.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Millonarios x Flamengo",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Millonarios x Flamengo",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Millonarios x Flamengo",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv3.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Belgrano x Internacional",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br4.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Belgrano x Internacional",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Necaxa x Le\u00f3n",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Columbus Crew x Tigres UANL",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br3.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "The Strongest x Gr\u00eamio",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br6.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "The Strongest x Gr\u00eamio",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br1.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Racing x Corinthians",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br4.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Racing x Corinthians",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv1.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Racing x Corinthians",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Deportivo T\u00e1chira x River Plate",
     "category_name": "\u26bd Soccer"
   },
   {
     "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Deportivo Cali x Rionegro \u00c1guilas",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Deportivo T\u00e1chira x River Plate",
     "category_name": "\u26bd Soccer"
   },
   {
-    "channel_link": "https://sportsonline.si/channels/hd/hd10.php",
-    "channel_logo": "https://i.pinimg.com/564x/3c/47/7c/3c477c4d4fc90b990959a45f02a0eecb.jpg",
-    "channels_name": "Ju\u00e1rez x Santos Laguna",
+    "channel_link": "https://sportsonline.si/channels/pt/sporttv2.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Deportivo T\u00e1chira x River Plate",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br2.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Sportivo Ameliano x Athletico-PR",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd11.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "New England x Am\u00e9rica",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd5.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Universitario x LDU Quito",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/bra/br5.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Universitario x LDU Quito",
+    "category_name": "\u26bd Soccer"
+  },
+  {
+    "channel_link": "https://sportsonline.si/channels/hd/hd6.php",
+    "channel_logo": "https://i.pinimg.com/564x/f4/c6/81/f4c681936d256c00d38ac87a68f1a6d1.jpg",
+    "channels_name": "Universitario x LDU Quito",
     "category_name": "\u26bd Soccer"
   }
 ]

@@ -1,13 +1,9 @@
 {
-  "spider": "https://raw.gitmirror.com/T00700/TVBoxSE/master/FongMi.jar;md5;FDB39048BFED72C40BFF44A039A6582A",
   "lives": [
     {
-      "name": "Tv",
-      "boot": false,
-      "pass": false,
+      "name": "M3U",
       "url": "http://starshare.live:8080/get.php?username=23432454367&password=87532356544&type=m3u&output=m3u8",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "playerType": 1
+     
     }
   ]
 }

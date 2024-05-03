@@ -1,4 +1,5 @@
 {
+  "spider": "https://raw.gitmirror.com/T00700/TVBoxSE/master/FongMi.jar;md5;FDB39048BFED72C40BFF44A039A6582A",
   "lives": [
     {
       "name": "Tv",
@@ -7,9 +8,7 @@
       "url": "https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      },
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
       "playerType": 1
     }
   ]

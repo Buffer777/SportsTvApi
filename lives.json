@@ -3,11 +3,9 @@
   "lives": [
     {
       "name": "Tv",
-      "boot": true,
+      "boot": false,
       "pass": false,
-      "url": "https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "url": "http://starshare.live:8080/get.php?username=23432454367&password=87532356544&type=m3u&output=m3u8",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
       "playerType": 1
     }

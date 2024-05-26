@@ -1,4 +1,9 @@
 [
+     {
+        "id": "ipl.json",
+        "name": "🏏 IPL 2024",
+        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+    },
     {
         "id": "PkVsEn.json",
         "name": "🏏 Pakistan Vs England",
@@ -9,13 +14,8 @@
         "name": "🏏 WestIndies Vs SouthAfrica",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     },
-    {
-        "id": "ipl.jsonn",
-        "name": "🏏 IPL 2024",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-    },
      {
-        "id": "soccer.json",
+        "id": "soccer.jsonn",
         "name": "\u26bd Soccer",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     }

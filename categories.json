@@ -1,16 +1,11 @@
 [
-     {
-        "id": "ufc.jsonn",
-        "name": "🥊 UFC Main Event",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-    },
     {
         "id": "wct20.json",
         "name": "🏏 T20 WorldCup 2024",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     },
      {
-        "id": "soccer.jsonn",
+        "id": "soccer.json",
         "name": "\u26bd Soccer",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     }

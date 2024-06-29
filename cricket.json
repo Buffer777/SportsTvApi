@@ -1,9 +1,21 @@
 [
-  {
-    "channel_link": "https://aryzap.com/afg-tour-of-uae-2023/",
-    "channel_logo": "https://res.cricketbetting.net/images/matches/United-Arab-Emirates-vs-Afghanistan-3rd-T20-02-Jan.webp",
-    "channels_name": "🇦🇫AFG 🆚 UAE🇦🇪",
+   
+   {
+    "channel_link": "https://stream.crichd.vip/update/skys2.php",
+    "channel_logo": "https://i.pinimg.com/564x/07/f3/de/07f3de81d5546be4b96378a5b8404307.jpg",
+    "channels_name": "Cricket Ch1",
+    "category_name": "🏏 Cricket"
+  },
+   {
+    "channel_link": "https://player003.vip/embed2.php?id=ptvsp&q=PTV Sports", 
+    "channel_logo": "https://i.pinimg.com/564x/07/f3/de/07f3de81d5546be4b96378a5b8404307.jpg",
+    "channels_name": "Cricket Ch2",
+    "category_name": "🏏 Cricket"
+  },
+   {
+    "channel_link": "https://dlhd.so/embed/stream-370.php",
+    "channel_logo": "https://i.pinimg.com/564x/07/f3/de/07f3de81d5546be4b96378a5b8404307.jpg",
+    "channels_name": "Cricket Ch3",
     "category_name": "🏏 Cricket"
   }
-
 ]

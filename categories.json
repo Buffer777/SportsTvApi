@@ -1,5 +1,10 @@
 [
     {
+        "id": "soccer.json",
+        "name": "\u26bd Soccer",
+        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+    },
+    {
         "id": "IndVsZim.json",
         "name": "🏏 India Vs Zimbabwe",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
@@ -7,11 +12,6 @@
     {
         "id": "lanka.json",
         "name": "🏏 Lanka T20 2024",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-    },
-    {
-        "id": "soccer.json",
-        "name": "\u26bd Soccer",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     },
     {

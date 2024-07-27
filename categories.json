@@ -1,10 +1,15 @@
 [
     {
+        "id": "IndVsSl.json",
+        "name": "🏏 India Vs Srilanka",
+        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+    },
+    {
         "id": "WesvsEng.json",
         "name": "🏏 WestIndies Vs England",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     },
-     {
+    {
         "id": "hundred.json",
         "name": "🏏 The Hundred",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
@@ -24,5 +29,4 @@
         "name": "🏏 Cricket",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     }
-    
 ]

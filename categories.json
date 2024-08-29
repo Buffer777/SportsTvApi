@@ -1,17 +1,12 @@
 [
      {
-        "id": "WesvsZaf.json",
-        "name": "🏏 WestIndies Vs South Africa",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-    },
-    {
-        "id": "PakVsBan.jsonn",
-        "name": "🏏 Pakistan Vs Bangladesh",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
-    },
-    {
-        "id": "EngVsSri.jsonn",
+        "id": "EngVsSri.json",
         "name": "🏏 England Vs Srilanka",
+        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+    },
+    {
+        "id": "PakVsBan.json",
+        "name": "🏏 Pakistan Vs Bangladesh",
         "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
     }
    

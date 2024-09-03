@@ -2,7 +2,8 @@
     {
         "id": "PakVsBan.json",
         "name": "🏏 Pakistan Vs Bangladesh",
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVGhGy7UsrBBStWsq7QJGobpCeDzhcoRcbQ&s"
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVGhGy7UsrBBStWsq7QJGobpCeDzhcoRcbQ&s",
+        "isActive": true
     },
      {
         "id": "EngVsSri.json",

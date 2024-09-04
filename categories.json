@@ -1,18 +1,8 @@
 [
     {
-        "id": "PakVsBan.json",
-        "name": "🏏 Pakistan Vs Bangladesh",
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVGhGy7UsrBBStWsq7QJGobpCeDzhcoRcbQ&s"
-    },
-     {
-        "id": "EngVsSri.json",
-        "name": "🏏 England Vs Srilanka",
-        "icon": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-v31jd09udal21vf9vhph0tf7f0-20190621151433.Medi.jpeg"
-    },
-    {
         "id": "AusVsSco.json",
         "name": "🏏 Australia Vs Scotland",
-        "icon": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1oirV0.img?w=768&h=512&m=6&x=198&y=140&s=756&d=196"
+        "icon": "https://raw.githubusercontent.com/Buffer777/SportsTvApi/main/img/AusvsSco.png"
     }
    
 ]

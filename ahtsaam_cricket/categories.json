@@ -1,17 +1,29 @@
 [
     {
-        "id": "PakVsBan.json",
-        "name": "🏏 Pakistan Vs Bangladesh",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+        "id": "EngVsAus.json",
+        "name": "🏏 England Vs Australia",
+        "icon": "https://i.pinimg.com/564x/4f/f5/98/4ff598852bff326b8eb634a608a8338f.jpg"
+    },
+     {
+        "id": "IndVsBan.json",
+        "name": "🏏 Bangladesh Vs INDIA",
+        "icon": "https://me.webcric.com/images/ICC/BAN-IND.png"
     },
     {
-        "id": "EngVsSri.json",
-        "name": "🏏 England Vs Srilanka",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+        "id": "AfgVsSaf.jsonn",
+        "name": "🏏 Afghnaistan Vs South Africa",
+        "icon": "https://me.webcric.com/images/ICC/SAF-AFG.png"
     },
     {
-        "id": "WesvsZaf.jsonn",
-        "name": "🏏 WestIndies Vs South Africa",
-        "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+        "id": "NzeVsSri.json",
+        "name": "🏏 New Zealand Vs Srilanka",
+        "icon": "https://me.webcric.com/images/ICC/NZ-SRI.png"
+    },
+    {
+        "id": "soccer.json",
+        "name": "\u26bd Soccer",
+        "icon": "https://i.pinimg.com/564x/e8/cf/66/e8cf664674c21ab16fda21eca33ca8cc.jpg"
     }
+     
+   
 ]

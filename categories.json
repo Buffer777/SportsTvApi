@@ -1,18 +1,13 @@
 [
     {
-        "id": "EngVsAus.jsonn",
+        "id": "EngVsAus.json",
         "name": "🏏 England Vs Australia",
         "icon": "https://i.pinimg.com/564x/4f/f5/98/4ff598852bff326b8eb634a608a8338f.jpg"
     },
      {
-        "id": "IndVsBan.json",
+        "id": "IndVsBan.jsonn",
         "name": "🏏 Bangladesh Vs INDIA",
         "icon": "https://me.webcric.com/images/ICC/BAN-IND.png"
-    },
-    {
-        "id": "AfgVsSaf.json",
-        "name": "🏏 Afghnaistan Vs South Africa",
-        "icon": "https://me.webcric.com/images/ICC/SAF-AFG.png"
     },
     {
         "id": "NzeVsSri.json",

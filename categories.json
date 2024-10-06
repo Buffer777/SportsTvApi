@@ -5,6 +5,11 @@
         "icon": "https://me.webcric.com/images/ICC/BAN-IND.png"
     },
     {
+        "id": "wwc.json",
+        "name": "🏏 Women Worldcup",
+        "icon": "https://images.icc-cricket.com/image/private/t_q-best/v1724422854/prd/assets/tournaments/womens-t20-worldcup/2024/womens-t20-wc-2024-logo.svg"
+    },
+    {
         "id": "IreVsSaf.json",
         "name": "🏏 Ireland Vs South Africa",
         "icon": "https://me.webcric.com/images/ICC/SAF-IRE.png"

@@ -1,4 +1,9 @@
 [
+     {
+        "id": "EngVsPak.json",
+        "name": "🏏 Pakistan Vs England",
+        "icon": "https://me.webcric.com/images/ICC/PAK-ENG.png"
+    },
     {
         "id": "IndVsBan.json",
         "name": "🏏 Bangladesh Vs INDIA",

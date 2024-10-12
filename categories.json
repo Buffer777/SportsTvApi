@@ -1,6 +1,6 @@
 [
      {
-        "id": "EngVsPak.json",
+        "id": "EngVsPak.jsonn",
         "name": "🏏 Pakistan Vs England",
         "icon": "https://me.webcric.com/images/ICC/PAK-ENG.png"
     },
@@ -13,11 +13,6 @@
         "id": "wwc.json",
         "name": "🏏 Women Worldcup",
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmp6U5ntVulr_8rOTbfeRIQwxxMHEU9Nz8Ig&s"
-    },
-    {
-        "id": "IreVsSaf.json",
-        "name": "🏏 Ireland Vs South Africa",
-        "icon": "https://me.webcric.com/images/ICC/SAF-IRE.png"
     },
     {
         "id": "soccer.json",

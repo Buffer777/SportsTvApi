@@ -1,4 +1,5 @@
 {
   "showAds": true,
-  "maxCount": 2
+  "maxCount": 2,
+  "showPlayTube": true
 }

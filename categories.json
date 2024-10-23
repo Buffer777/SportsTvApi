@@ -1,18 +1,18 @@
 [
      {
-        "id": "BanVsSaf.json",
-        "name": "🏏 Bangladesh Vs South Africa",
-        "icon": "https://me.webcric.com/images/ICC/SAF-BAN.png"
-    },
-     {
-        "id": "EngVsPak.jsonn",
+        "id": "EngVsPak.json",
         "name": "🏏 Pakistan Vs England",
         "icon": "https://me.webcric.com/images/ICC/PAK-ENG.png"
     },
      {
-        "id": "IndVsNzl.jsonn",
+        "id": "IndVsNzl.json",
         "name": "🏏 India Vs New Zealand",
         "icon": "https://me.webcric.com/images/ICC/NZ-IND.png"
+    },
+     {
+        "id": "BanVsSaf.json",
+        "name": "🏏 Bangladesh Vs South Africa",
+        "icon": "https://me.webcric.com/images/ICC/SAF-BAN.png"
     },
     {
         "id": "SriVsWes.json",

@@ -1,22 +1,17 @@
 [
      {
-        "id": "EngVsPak.json",
-        "name": "🏏 Pakistan Vs England",
-        "icon": "https://me.webcric.com/images/ICC/PAK-ENG.png"
+        "id": "AusVsPak.json",
+        "name": "🏏 Pakistan Vs Australia",
+        "icon": "https://me.webcric.com/images/ICC/PAK-AUS.png"
+    },
+     {
+        "id": "EngVsWes.json",
+        "name": "🏏 England Vs WestIndies",
+        "icon": "https://me.webcric.com/images/ICC/ENG-WI.png"
     },
     {
-        "id": "IndVsBan.json",
-        "name": "🏏 Bangladesh Vs INDIA",
-        "icon": "https://me.webcric.com/images/ICC/BAN-IND.png"
-    },
-    {
-        "id": "wwc.json",
-        "name": "🏏 Women Worldcup",
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmp6U5ntVulr_8rOTbfeRIQwxxMHEU9Nz8Ig&s"
-    },
-    {
-        "id": "IreVsSaf.json",
-        "name": "🏏 Ireland Vs South Africa",
-        "icon": "https://me.webcric.com/images/ICC/SAF-IRE.png"
+        "id": "soccer.json",
+        "name": "\u26bd Soccer",
+        "icon": "https://i.pinimg.com/564x/e8/cf/66/e8cf664674c21ab16fda21eca33ca8cc.jpg"
     }
 ]

@@ -1,18 +1,8 @@
 [
     {
-        "id": "AusVsPak.json",
-        "name": "🏏 Pakistan Vs Australia",
-        "icon": "https://me.webcric.com/images/ICC/PAK-AUS.png"
-    },
-    {
         "id": "SriVsNze.json",
         "name": "🏏 Srilanka Vs New Zealand",
         "icon": "https://me.webcric.com/images/ICC/NZ-SRI.png"
-    },
-    {
-        "id": "EngVsWes.json",
-        "name": "🏏 England Vs WestIndies",
-        "icon": "https://me.webcric.com/images/ICC/ENG-WI.png"
     },
     {
         "id": "soccer.json",

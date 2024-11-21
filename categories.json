@@ -5,6 +5,16 @@
         "icon": "https://me.webcric.com/images/ICC/AUS-IND.png"
     },
     {
+        "id": "BanVsWes.json",
+        "name": "🏏 Bangladesh Vs West Indies",
+        "icon": "https://me.webcric.com/images/ICC/WI-BAN.png"
+    },
+    {
+        "id": "t10.json",
+        "name": "🏏 ABU DHABI 2024",
+        "icon": "https://me.webcric.com/images/T10-league/logo5.png"
+    },
+    {
         "id": "soccer.json",
         "name": "\u26bd Soccer",
         "icon": "https://i.pinimg.com/564x/e8/cf/66/e8cf664674c21ab16fda21eca33ca8cc.jpg"

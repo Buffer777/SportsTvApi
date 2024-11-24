@@ -5,6 +5,11 @@
         "icon": "https://me.webcric.com/images/ICC/AUS-IND.png"
     },
     {
+        "id": "PakVsZim.json",
+        "name": "🏏 Pakistan Vs Zimbabwe",
+        "icon": "https://me.webcric.com/images/ICC/PAK-ZIM.png"
+    },
+    {
         "id": "BanVsWes.json",
         "name": "🏏 Bangladesh Vs West Indies",
         "icon": "https://me.webcric.com/images/ICC/WI-BAN.png"

@@ -9,6 +9,11 @@
         "name": "🏏 Srilanka Vs South Africa",
         "icon": "https://me.webcric.com/images/ICC/SAF-SRI.png"
     },
+    {
+        "id": "EngVsNze.json",
+        "name": "🏏 England Vs New Zealand",
+        "icon": "https://me.webcric.com/images/ICC/ENG-NZ.png"
+    },
      {
         "id": "PakVsZim.json",
         "name": "🏏 Pakistan Vs Zimbabwe",

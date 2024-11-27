@@ -4,6 +4,11 @@
         "name": "🏏 Autralia Vs India",
         "icon": "https://me.webcric.com/images/ICC/AUS-IND.png"
     },
+    {
+        "id": "SriVsWes.json",
+        "name": "🏏 Srilanka Vs South Africa",
+        "icon": "https://me.webcric.com/images/ICC/SAF-SRI.png"
+    },
      {
         "id": "PakVsZim.json",
         "name": "🏏 Pakistan Vs Zimbabwe",

@@ -5,19 +5,14 @@
         "icon": "https://me.webcric.com/images/ICC/AUS-IND.png"
     },
     {
-        "id": "SriVsSaf.json",
-        "name": "🏏 Srilanka Vs South Africa",
-        "icon": "https://me.webcric.com/images/ICC/SAF-SRI.png"
+        "id": "PakVsSaf.json",
+        "name": "🏏 Pakistan Vs SouthAfrica",
+        "icon": "https://me.webcric.com/images/ICC/PAK-SAF.png"
     },
     {
         "id": "EngVsNze.json",
         "name": "🏏 England Vs New Zealand",
         "icon": "https://me.webcric.com/images/ICC/ENG-NZ.png"
-    },
-     {
-        "id": "PakVsZim.json",
-        "name": "🏏 Pakistan Vs Zimbabwe",
-        "icon": "https://me.webcric.com/images/ICC/PAK-ZIM.png"
     },
     {
         "id": "BanVsWes.json",

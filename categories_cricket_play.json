@@ -3,7 +3,7 @@
         "id": "AusVsInd.json",
         "name": "🏏 Autralia Vs India",
         "icon": "https://me.webcric.com/images/ICC/AUS-IND.png",
-        "isWeb": false
+        "isWeb": true
     },
     {
         "id": "PakVsSaf.json",

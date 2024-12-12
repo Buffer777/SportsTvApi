@@ -8,7 +8,8 @@
     {
         "id": "PakVsSaf.json",
         "name": "🏏 Pakistan Vs SouthAfrica",
-        "icon": "https://me.webcric.com/images/ICC/PAK-SAF.png"
+        "icon": "https://me.webcric.com/images/ICC/PAK-SAF.png",
+        "isWeb": true
     },
     {
         "id": "EngVsNze.json",

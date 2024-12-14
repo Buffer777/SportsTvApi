@@ -22,6 +22,12 @@
         "name": "🏏 Bangladesh Vs West Indies",
         "icon": "https://me.webcric.com/images/ICC/WI-BAN.png"
     },
+     {
+        "id": "AfgVsZim.json",
+        "name": "🏏 Afghanistan Vs Zimbabwe",
+        "icon": "https://me.webcric.com/images/ICC/ZIM-AFG.png",
+         "isWeb": true
+    },
     {
         "id": "soccer.json",
         "name": "\u26bd Soccer",

@@ -3,13 +3,13 @@
         "id": "AusVsInd.json",
         "name": "🏏 Autralia Vs India",
         "icon": "https://me.webcric.com/images/ICC/AUS-IND.png",
-        "isWeb": true
+        "isWeb": false
     },
     {
         "id": "PakVsSaf.json",
         "name": "🏏 Pakistan Vs SouthAfrica",
         "icon": "https://me.webcric.com/images/ICC/PAK-SAF.png",
-        "isWeb": true
+        "isWeb": false
     },
     {
         "id": "EngVsNze.json",
@@ -26,7 +26,7 @@
         "id": "AfgVsZim.json",
         "name": "🏏 Afghanistan Vs Zimbabwe",
         "icon": "https://me.webcric.com/images/ICC/ZIM-AFG.png",
-         "isWeb": true
+         "isWeb": false
     },
     {
         "id": "soccer.json",

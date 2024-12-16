@@ -18,6 +18,12 @@
         "isWeb": false
     },
      {
+        "id": "EngVsNze.json",
+        "name": "🏏 England Vs New Zealand",
+        "icon": "https://me.webcric.com/images/ICC/ENG-NZ.png",
+        "isWeb": false
+    },
+     {
         "id": "AfgVsZim.json",
         "name": "🏏 Afghanistan Vs Zimbabwe",
         "icon": "https://me.webcric.com/images/ICC/ZIM-AFG.png",

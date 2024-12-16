@@ -12,15 +12,10 @@
         "isWeb": false
     },
     {
-        "id": "EngVsNze.json",
-        "name": "🏏 England Vs New Zealand",
-        "icon": "https://me.webcric.com/images/ICC/ENG-NZ.png",
-        "isWeb": true
-    },
-    {
         "id": "BanVsWes.json",
         "name": "🏏 Bangladesh Vs West Indies",
-        "icon": "https://me.webcric.com/images/ICC/WI-BAN.png"
+        "icon": "https://me.webcric.com/images/ICC/WI-BAN.png",
+        "isWeb": false
     },
      {
         "id": "AfgVsZim.json",

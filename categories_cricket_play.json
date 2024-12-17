@@ -11,6 +11,11 @@
         "icon": "https://me.webcric.com/images/ICC/PAK-SAF.png",
         "isWeb": false
     },
+     {
+        "id": "bbl.json",
+        "name": "🏏 BBL 2024",
+        "icon": "https://i.pinimg.com/736x/3e/85/b4/3e85b4812cd23f84b3af633783b556d4.jpg"
+    },
     {
         "id": "BanVsWes.json",
         "name": "🏏 Bangladesh Vs West Indies",

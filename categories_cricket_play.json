@@ -12,6 +12,12 @@
         "isWeb": true
     },
     {
+        "id": "SriVsNze.json",
+        "name": "🏏 Sri Lanka Vs New Zealand",
+        "icon": "https://me.webcric.com/images/ICC/NZ-SRI.png",
+        "isWeb": true
+    },
+    {
         "id": "bbl.json",
         "name": "🏏 BBL 2024",
         "icon": "https://i.pinimg.com/736x/3e/85/b4/3e85b4812cd23f84b3af633783b556d4.jpg"

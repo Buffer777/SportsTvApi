@@ -10,19 +10,19 @@
         "icon": "https://me.webcric.com/images/ICC/PAK-SAF.png"
     },
     {
-        "id": "EngVsNze.json",
-        "name": "🏏 England Vs New Zealand",
-        "icon": "https://me.webcric.com/images/ICC/ENG-NZ.png"
+        "id": "SriVsNze.json",
+        "name": "🏏 Sri Lanka Vs New Zealand",
+        "icon": "https://me.webcric.com/images/ICC/NZ-SRI.png"
     },
     {
-        "id": "BanVsWes.json",
-        "name": "🏏 Bangladesh Vs West Indies",
-        "icon": "https://me.webcric.com/images/ICC/WI-BAN.png"
+        "id": "bbl.json",
+        "name": "🏏 BBL 2024",
+        "icon": "https://i.pinimg.com/736x/3e/85/b4/3e85b4812cd23f84b3af633783b556d4.jpg"
     },
     {
-        "id": "t10.json",
-        "name": "🏏 ABU DHABI 2024",
-        "icon": "https://me.webcric.com/images/T10-league/logo5.png"
+        "id": "AfgVsZim.json",
+        "name": "🏏 Afghanistan Vs Zimbabwe",
+        "icon": "https://me.webcric.com/images/ICC/ZIM-AFG.png"
     },
     {
         "id": "soccer.json",

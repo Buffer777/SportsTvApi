@@ -3,19 +3,19 @@
         "id": "AusVsInd.json",
         "name": "🏏 Autralia Vs India",
         "icon": "https://me.webcric.com/images/ICC/AUS-IND.png",
-        "isWeb": true
+        "isWeb": false
     },
     {
         "id": "PakVsSaf.json",
         "name": "🏏 Pakistan Vs SouthAfrica",
         "icon": "https://me.webcric.com/images/ICC/PAK-SAF.png",
-        "isWeb": true
+        "isWeb": false
     },
     {
         "id": "SriVsNze.json",
         "name": "🏏 Sri Lanka Vs New Zealand",
         "icon": "https://me.webcric.com/images/ICC/NZ-SRI.png",
-        "isWeb": true
+        "isWeb": false
     },
     {
         "id": "bbl.json",

@@ -1,7 +1,7 @@
 {
     "showAds": false,
     "maxCount": 7,
-    "showPlayTube": true,
+    "showPlayTube": false,
     "webBlockFilter": [
         "blast",
         "troutgorgets.com",

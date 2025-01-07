@@ -1,5 +1,12 @@
 {
-  "showAds": false,
-  "maxCount": 7,
-  "showPlayTube": true
+    "showAds": false,
+    "maxCount": 7,
+    "showPlayTube": true,
+    "webBlockFilter": [
+        "blast",
+        "troutgorgets.com",
+        "ad.html",
+        "sand",
+        "assets/player"
+    ]
 }

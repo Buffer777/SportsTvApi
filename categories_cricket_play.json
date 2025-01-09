@@ -1,8 +1,8 @@
 [
     {
-        "id": "PakVsSaf.json",
-        "name": "🏏 Pakistan Vs SouthAfrica",
-        "icon": "https://me.webcric.com/images/ICC/PAK-SAF.png",
+        "id": "sa2025.json",
+        "name": "🏏 SA20 2025",
+        "icon": "https://i.pinimg.com/736x/f1/7e/b2/f17eb2b6037af5eeb45973b0e02c314a.jpg",
         "isWeb": false
     },
     {
@@ -15,12 +15,6 @@
         "id": "bbl.json",
         "name": "🏏 BBL 2024",
         "icon": "https://i.pinimg.com/736x/3e/85/b4/3e85b4812cd23f84b3af633783b556d4.jpg"
-    },
-    {
-        "id": "AfgVsZim.json",
-        "name": "🏏 Afghanistan Vs Zimbabwe",
-        "icon": "https://me.webcric.com/images/ICC/ZIM-AFG.png",
-        "isWeb": false
     },
     {
         "id": "soccer.json",

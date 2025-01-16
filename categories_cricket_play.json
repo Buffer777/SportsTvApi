@@ -1,5 +1,11 @@
 [
     {
+        "id": "PakVsWes.json",
+        "name": "🏏 Pakistan Vs WesIndies",
+        "icon": "https://me.webcric.com/images/ICC/PAK-WI.png",
+        "isWeb": false
+    },
+    {
         "id": "sa2025.json",
         "name": "🏏 SA20 2025",
         "icon": "https://i.pinimg.com/736x/f1/7e/b2/f17eb2b6037af5eeb45973b0e02c314a.jpg",

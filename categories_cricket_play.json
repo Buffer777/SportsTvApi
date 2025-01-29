@@ -9,7 +9,7 @@
         "id": "SriVsAus.json",
         "name": "🏏 Sri Lanka Vs Australia",
         "icon": "https://me.webcric.com/images/ICC/AUS-SRI.png",
-        "isWeb": true
+        "isWeb": false
     },
     {
         "id": "sa2025.json",

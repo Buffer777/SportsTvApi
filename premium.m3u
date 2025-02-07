@@ -1,0 +1,192 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DAZN.1.HD.uk" tvg-name="DAZN 1UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/dazn1-uk.png?raw=true" group-title="United Kingdom" streamId="5000" channel-number="5000",DAZN 1UK
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDAZN1UK%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-1-uk.png?raw=true" group-title="United Kingdom" streamId="5001" channel-number="5001",Eurosport 1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport1%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" group-title="United Kingdom" streamId="5002" channel-number="5002",Eurosport 2
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FEurosport2%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" group-title="United Kingdom" streamId="5003" channel-number="5003",ITV 4
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FITV4%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="La Liga TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/laliga-tv-uk.png?raw=true" group-title="United Kingdom" streamId="5004" channel-number="5004",La Liga TV
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FLaLigaTV%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="Premier Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-1-uk.png?raw=true" group-title="United Kingdom" streamId="5005" channel-number="5005",Premier Sports 1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPremierSports1%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="Premier Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-2-uk.png?raw=true" group-title="United Kingdom" streamId="5006" channel-number="5006",Premier Sports 2
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FPremierSports2%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="Rally.TV.uk" tvg-name="Rally TV" tvg-logo="https://i.imgur.com/ZQJiQlX.png" group-title="United Kingdom",Rally TV
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FRallyTV%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-uk.png" group-title="United Kingdom" streamId="5007" channel-number="5007",Sky Sports Action
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsAction%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySpArena(src01).uk" tvg-name="Sky Sports Arena" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-arena-uk.png?raw=true" group-title="United Kingdom" streamId="5008" channel-number="5008",Sky Sports Arena
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsArena%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" group-title="United Kingdom" streamId="5009" channel-number="5009",Sky Sports Cricket
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsCricket%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="United Kingdom" streamId="5010" channel-number="5010",Sky Sports F 1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsF1%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySpFball(src01).uk" tvg-name="Sky Sports Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-uk.png?raw=true" group-title="United Kingdom" streamId="5011" channel-number="5011",Sky Sports Football
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsFootball%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="United Kingdom" streamId="5012" channel-number="5012",Sky Sports Golf
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsGolf%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySpMainEv(src01).uk" tvg-name="Sky Sports Main Event" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-uk.png?raw=true" group-title="United Kingdom" streamId="5013" channel-number="5013",Sky Sports Main Event
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsMainEvent%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySpMix(src01).uk" tvg-name="Sky Sports Mix" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-uk.png?raw=true" group-title="United Kingdom" streamId="5014" channel-number="5014",Sky Sports Mix
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsMix%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-news-uk.png?raw=true" group-title="United Kingdom" streamId="5015" channel-number="5015",Sky Sports News
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsNews%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySPPL(src01).uk" tvg-name="Sky Sports Premier League" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="United Kingdom" streamId="5015" channel-number="5015",Sky Sports Premier League
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsPremierLeague%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-tennis-uk.png?raw=true" group-title="United Kingdom" streamId="5016" channel-number="5016",Sky Sports Tennis
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportsTennis%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="United Kingdom" streamId="5017" channel-number="5017",TNT Sports 1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports1%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="United Kingdom" streamId="5018" channel-number="5018",TNT Sports 2
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports2%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="United Kingdom" streamId="5019" channel-number="5019",TNT Sports 3
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports3%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="United Kingdom" streamId="5020" channel-number="5020",TNT Sports 4
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports4%5BUK%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/rtsh1-al.png?raw=true" group-title="Albania" streamId="5021" channel-number="5021",RTSH 1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FRTSH1%5BAlbania%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/rtsh2-al.png?raw=true" group-title="Albania" streamId="5022" channel-number="5022",RTSH 2
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FRTSH2%5BAlbania%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/albania/rtsh3-al.png?raw=true" group-title="Albania" streamId="5023" channel-number="5023",RTSH Sport
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FRTSHSport%5BAlbania%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 1 Deutschland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn1-de.png?raw=true" group-title="Germany" streamId="5024" channel-number="5024",DAZN 1 Deutschland
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDAZN1Deutschland%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN 2 Deutschland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dazn2-de.png?raw=true" group-title="Germany" streamId="5025" channel-number="5025",DAZN 2 Deutschland
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FDAZN2Deutschland%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportBundesliga.de" tvg-name="Sky Bundesliga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png?raw=true" group-title="Germany" streamId="5026" channel-number="5026",Sky Bundesliga
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportBundesliga1.de" tvg-name="Sky Bundesliga 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-1-de.png?raw=true" group-title="Germany" streamId="5027" channel-number="5027",Sky Bundesliga 1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga1%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportBundesliga2.de" tvg-name="Sky Bundesliga 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-2-de.png?raw=true" group-title="Germany" streamId="5028" channel-number="5028",Sky Bundesliga 2
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga2%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportBundesliga3.de" tvg-name="Sky Bundesliga 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-3-de.png?raw=true" group-title="Germany" streamId="5029" channel-number="5029",Sky Bundesliga 3
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga3%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportBundesliga4.de" tvg-name="Sky Bundesliga 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-4-de.png?raw=true" group-title="Germany" streamId="5030" channel-number="5030",Sky Bundesliga 4
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga4%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportBundesliga5.de" tvg-name="Sky Bundesliga 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-5-de.png?raw=true" group-title="Germany" streamId="5031" channel-number="5031",Sky Bundesliga 5
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga5%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportBundesliga6.de" tvg-name="Sky Bundesliga 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-6-de.png?raw=true" group-title="Germany" streamId="5032" channel-number="5032",Sky Bundesliga 6
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga6%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportBundesliga7.de" tvg-name="Sky Bundesliga 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-7-de.png?raw=true" group-title="Germany" streamId="5033" channel-number="5033",Sky Bundesliga 7
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga7%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportBundesliga8.de" tvg-name="Sky Bundesliga 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-8-de.png?raw=true" group-title="Germany" streamId="5034" channel-number="5034",Sky Bundesliga 8
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga8%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportBundesliga9.de" tvg-name="Sky Bundesliga 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-9-de.png?raw=true" group-title="Germany" streamId="5035" channel-number="5035",Sky Bundesliga 9
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkyBundesliga9%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-1-de.png?raw=true" group-title="Germany" streamId="5036" channel-number="5036",Sky Sport 1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BDE%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-1-de.png?raw=true" group-title="Germany" streamId="5037" channel-number="5037",Sky Sport 1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="Sky Sport 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-10-de.png?raw=true" group-title="Germany" streamId="5038" channel-number="5038",Sky Sport 10
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport10%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-2-de.png?raw=true" group-title="Germany" streamId="5039" channel-number="5039",Sky Sport 2
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport2%5BDE%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-2-de.png?raw=true" group-title="Germany" streamId="5040" channel-number="5040",Sky Sport 2
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport2%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-3-de.png?raw=true" group-title="Germany" streamId="5041" channel-number="5041",Sky Sport 3
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport3%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-4-de.png?raw=true" group-title="Germany" streamId="5042" channel-number="5042",Sky Sport 4
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport4%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-5-de.png?raw=true" group-title="Germany" streamId="5043" channel-number="5043",Sky Sport 5
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport5%5BDE%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-5-de.png?raw=true" group-title="Germany" streamId="5044" channel-number="5044",Sky Sport 5
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport5%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-6-de.png?raw=true" group-title="Germany" streamId="5045" channel-number="5045",Sky Sport 6
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport6%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-7-de.png?raw=true" group-title="Germany" streamId="5046" channel-number="5046",Sky Sport 7
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport7%5BDE%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-7-de.png?raw=true" group-title="Germany" streamId="5047" channel-number="5047",Sky Sport 7
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport7%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-8-de.png?raw=true" group-title="Germany" streamId="5048" channel-number="5048",Sky Sport 8
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport8%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-9-de.png?raw=true" group-title="Germany" streamId="5049" channel-number="5049",Sky Sport 9
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport9%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-tennis-de.png?raw=true" group-title="Germany" streamId="5050" channel-number="5050",Sky Sport Tennis
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportTennis%5BDE%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-tennis-de.png?raw=true" group-title="Germany" streamId="5051" channel-number="5051",Sky Sport Tennis
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportTennis%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="Sky Sport Top Event" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-top-event-de.png?raw=true" group-title="Germany" streamId="5052" channel-number="5052",Sky Sport Top Event
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySportTopEvent%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="sportdigital(src01).de" tvg-name="Sportdigital FUSSBALL 2" tvg-logo="https://i.imgur.com/cZ2ZGKk.jpeg" group-title="Germany" streamId="5053" channel-number="5053",Sportdigital FUSSBALL 2
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSportdigitalFUSSBALL2%5BGermany%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.1HD.gr" tvg-name="Cosmote Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="Greece" streamId="5054" channel-number="5054",Cosmote Sport 1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport1%5BGreece%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.2HD.gr" tvg-name="Cosmote Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-2-gr.png?raw=true" group-title="Greece" streamId="5055" channel-number="5055",Cosmote Sport 2
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport2%5BGreece%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.3HD.gr" tvg-name="Cosmote Sport 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-3-gr.png?raw=true" group-title="Greece" streamId="5056" channel-number="5056",Cosmote Sport 3
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport3%5BGreece%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.4HD.gr" tvg-name="Cosmote Sport 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-4-gr.png?raw=true" group-title="Greece" streamId="5057" channel-number="5057",Cosmote Sport 4
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport4%5BGreece%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.5HD.gr" tvg-name="Cosmote Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-5-gr.png?raw=true" group-title="Greece" streamId="5058" channel-number="5058",Cosmote Sport 5
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport5%5BGreece%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.6HD.gr" tvg-name="Cosmote Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-6-gr.png?raw=true" group-title="Greece" streamId="5059" channel-number="5059",Cosmote Sport 6
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport6%5BGreece%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.7HD.gr" tvg-name="Cosmote Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-7-gr.png?raw=true" group-title="Greece" streamId="5060" channel-number="5060",Cosmote Sport 7
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport7%5BGreece%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-id="COSMOTE.SPORT.8HD.gr" tvg-name="Cosmote Sport 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-8-gr.png?raw=true" group-title="Greece" streamId="5061" channel-number="5061",Cosmote Sport 8
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FCosmoteSport8%5BGreece%5D|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0

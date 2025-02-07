@@ -1,4 +1,10 @@
 [
+     {
+        "id": "TriSeries.json",
+        "name": "🏏 Tri Nation Series",
+        "icon": "https://i.pinimg.com/736x/07/d0/c9/07d0c9139b654affd41443fe9838764b.jpg",
+        "isWeb": false
+    },
     {
         "id": "EngVsInd.json",
         "name": "🏏 India Vs England",

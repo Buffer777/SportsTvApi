@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Episode-44" tvg-logo="https://hum.tv/wp-content/uploads/2024/04/sultan.png" group-title="Salahuddin Ayyubi (S2)",Episode-44
 https://kayihome.xyz/cdn/hls/d73ec3cee5f29c0a50d92e109547666d/master.txt?s=1&amp;d=|Referer= https://kayihome.xyz/player/index.php?data=a8849b052492b5106526b2331e526138|user-agent=Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MOB30X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0
+#EXTINF:-1 tvg-id="Episode-34" tvg-logo="https://play.niazitv.pk/images/serie_1708794466.jpg" group-title="Mehmed Fetihler Sultani (S2)",Episode-34
+https://kayihome.xyz/cdn/hls/27c1918ab0f6008b98f6017c782abc7b/master.txt?s=1&d=|Referer=https://kayihome.xyz/player/index.php?data=258be18e31c8188555c2ff05b4d542c3|user-agent=Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MOB30X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0

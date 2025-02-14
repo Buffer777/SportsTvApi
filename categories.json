@@ -1,13 +1,18 @@
 [
+     {
+        "id": "TriSeries.json",
+        "name": "🏏 Tri Nation Series",
+        "icon": "https://i.pinimg.com/736x/07/d0/c9/07d0c9139b654affd41443fe9838764b.jpg"
+    },
     {
         "id": "EngVsInd.json",
         "name": "🏏 India Vs England",
         "icon": "https://me.webcric.com/images/ICC/ENG-IND.png"
     },
     {
-        "id": "PakVsWes.json",
-        "name": "🏏 Pakistan Vs WesIndies",
-        "icon": "https://me.webcric.com/images/ICC/PAK-WI.png"
+        "id": "SriVsAus.json",
+        "name": "🏏 Sri Lanka Vs Australia",
+        "icon": "https://me.webcric.com/images/ICC/AUS-SRI.png"
     },
     {
         "id": "sa2025.json",
@@ -18,11 +23,6 @@
         "id": "ilt20.json",
         "name": "🏏 ILT20 2025",
         "icon": "https://me.webcric.com/images/ILT20/logo.jpg"
-    },
-    {
-        "id": "bbl.json",
-        "name": "🏏 BBL 2024",
-        "icon": "https://i.pinimg.com/736x/3e/85/b4/3e85b4812cd23f84b3af633783b556d4.jpg"
     },
     {
         "id": "soccer.json",

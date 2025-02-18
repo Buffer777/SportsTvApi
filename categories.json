@@ -1,28 +1,8 @@
 [
      {
-        "id": "TriSeries.json",
-        "name": "🏏 Tri Nation Series",
-        "icon": "https://i.pinimg.com/736x/07/d0/c9/07d0c9139b654affd41443fe9838764b.jpg"
-    },
-    {
-        "id": "EngVsInd.json",
-        "name": "🏏 India Vs England",
-        "icon": "https://me.webcric.com/images/ICC/ENG-IND.png"
-    },
-    {
-        "id": "SriVsAus.json",
-        "name": "🏏 Sri Lanka Vs Australia",
-        "icon": "https://me.webcric.com/images/ICC/AUS-SRI.png"
-    },
-    {
-        "id": "sa2025.json",
-        "name": "🏏 SA20 2025",
-        "icon": "https://i.pinimg.com/736x/f1/7e/b2/f17eb2b6037af5eeb45973b0e02c314a.jpg"
-    },
-    {
-        "id": "ilt20.json",
-        "name": "🏏 ILT20 2025",
-        "icon": "https://me.webcric.com/images/ILT20/logo.jpg"
+        "id": "champ.json",
+        "name": "🏏 Champion Trophy 2025",
+        "icon": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size50-c_pad/prd/yxz9nyt90zgvcgchyldu"
     },
     {
         "id": "soccer.json",

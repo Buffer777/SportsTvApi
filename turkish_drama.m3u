@@ -1,7 +1,14 @@
 #EXTM3U
+#Salahuddin Ayyubi 
 #EXTINF:-1 tvg-id="Episode-44" tvg-logo="https://hum.tv/wp-content/uploads/2024/04/sultan.png" group-title="Salahuddin Ayyubi (S2)",Episode-44
 https://kayihome.xyz/cdn/hls/d73ec3cee5f29c0a50d92e109547666d/master.txt?s=1&amp;d=|Referer= https://kayihome.xyz/player/index.php?data=a8849b052492b5106526b2331e526138|user-agent=Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MOB30X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0
+#EXTINF:-1 tvg-id="Episode-45" tvg-logo="https://hum.tv/wp-content/uploads/2024/04/sultan.png" group-title="Salahuddin Ayyubi (S2)",Episode-45
+https://turktvuk.com/cdn/hls/fdd209540e065baaf58dc94c1d398c04/master.txt?s=1&d=|Referer=https://turktvuk.com/player/index.php?data=2bd7f907b7f5b6bbd91822c0c7b835f6|user-agent=Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MOB30X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+
+#Mehmed Fetihler Sultani
 #EXTINF:-1 tvg-id="Episode-34" tvg-logo="https://play.niazitv.pk/images/serie_1708794466.jpg" group-title="Mehmed Fetihler Sultani (S2)",Episode-34
 https://kayihome.xyz/cdn/hls/27c1918ab0f6008b98f6017c782abc7b/master.txt?s=1&d=|Referer=https://kayihome.xyz/player/index.php?data=258be18e31c8188555c2ff05b4d542c3|user-agent=Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MOB30X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0
+
+#Kurulus Osman
 #EXTINF:-1 tvg-id="Episode-180" tvg-logo="https://i0.wp.com/kayifamily.com/wp-content/uploads/2024/10/Kurulus-Osman-Season-6.jpg?resize=780%2C470&amp;ssl=1" group-title="Kurulus Osman (S6)",Episode-180
 https://kayihome.xyz/cdn/hls/028898d38f32d6408ddd3c410cfb2ae8/master.txt?s=1&amp;d=|Referer=https://kayihome.xyz/player/index.php?data=069d3bb002acd8d7dd095917f9efe4cb&amp;user-agent= Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MOB30X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0

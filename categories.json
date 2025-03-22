@@ -1,12 +1,7 @@
 [
      {
-        "id": "PakVsNz.json",
-        "name": "🏏 Pakistan Vs New Zealand",
+        "id": "update_cricket.json",
+        "name": "🏏 Update App",
         "icon": "https://me.webcric.com/images/ICC/PAK-NZ.png"
-    },
-    {
-        "id": "soccer.json",
-        "name": "\u26bd Soccer",
-        "icon": "https://i.pinimg.com/564x/e8/cf/66/e8cf664674c21ab16fda21eca33ca8cc.jpg"
     }
 ]

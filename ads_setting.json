@@ -4,6 +4,9 @@
     "showPlayTube": false,
     "webBlockFilter": [
         "blast",
+        ".webm",
+        ".mp4",
+        ".mp3",
         "troutgorgets.com",
         "ad.html",
         "sand",

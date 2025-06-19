@@ -1,29 +1,50 @@
 [
-     {
+    {
         "channel_link": "https://me.webcric.com/watch-india-vs-england-live-cricket-streaming.htm",
         "channel_logo": "https://me.webcric.com/images/ICC/ENG-IND.png",
         "channels_name": "IND VS ENG",
         "category_name": "🏏 India Vs England"
     },
-      { 
-        "channel_link": "https://new.crichd-player.top/willow-cricket-live-streaming-hd-46?v=m",
+    {
+        "channel_link": "https://cricgo.pro/player.php?id=willow",
+         "channel_logo": "https://me.webcric.com/images/ICC/ENG-IND.png",
+        "channels_name": "IND VS ENG",
+        "category_name": "🏏 India Vs England"
+    },
+    {
+        "channel_link": "https://cricgo.pro/player.php?id=starsp",
         "channel_logo": "https://me.webcric.com/images/ICC/ENG-IND.png",
         "channels_name": "IND VS ENG",
         "category_name": "🏏 India Vs England"
     },
     {
-        "channel_link": "https://stream.crichd.sc/update/bt1.php",
+        "channel_link": "https://me.webcric.com/watch-wtc-final-2025-on-willow-live-cricket-streaming.htm",
        "channel_logo": "https://me.webcric.com/images/ICC/ENG-IND.png",
         "channels_name": "IND VS ENG",
         "category_name": "🏏 India Vs England"
     },
     {
-        "channel_link": "https://thedaddy.to/embed/stream-346.php",
+        "channel_link": "https://stream.crichd.sc/update/skys2.php",
+       "channel_logo": "https://me.webcric.com/images/ICC/ENG-IND.png",
+        "channels_name": "IND VS ENG",
+        "category_name": "🏏 India Vs England"
+    },
+    {
+        "channel_link": "https://daddylive.dad/embed/stream-65.php",
+         "channel_logo": "https://me.webcric.com/images/ICC/ENG-IND.png",
+        "channels_name": "IND VS ENG",
+        "category_name": "🏏 India Vs England"
+    },
+    {
+        "channel_link": "https://daddylive.dad/embed/stream-369.php",
+         "channel_logo": "https://me.webcric.com/images/ICC/ENG-IND.png",
+        "channels_name": "IND VS ENG",
+        "category_name": "🏏 India Vs England"
+    },
+    {
+        "channel_link": "https://buffer777.github.io/SportsTvApi/live1.html",
         "channel_logo": "https://me.webcric.com/images/ICC/ENG-IND.png",
         "channels_name": "IND VS ENG",
         "category_name": "🏏 India Vs England"
     }
-    
-    
-    
 ]

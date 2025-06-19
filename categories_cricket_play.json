@@ -1,14 +1,14 @@
 [
      {
-        "id": "pakvsban.json",
-        "name": "🏏 ENG VS WES",
-        "icon": "https://me.webcric.com/images/ICC/ENG-WI.png",
+        "id": "EngVsInd.json",
+        "name": "🏏 India Vs England",
+        "icon": "https://me.webcric.com/images/ICC/ENG-IND.png",
         "isWeb": false
     },
      {
-        "id": "ipl2025.json",
-        "name": "🏏 world test championship final",
-        "icon": "https://images.supersport.com/media/e0kak3oc/sa-australia-25-06-g-1200.jpg?width=1920&quality=90&format=webp",
+        "id": "SriVsBan.json",
+        "name": "🏏 Sri Lanka Vs Bangladesh",
+        "icon": "https://me.webcric.com/images/ICC/BAN-SRI.png",
         "isWeb": false
     },
     {

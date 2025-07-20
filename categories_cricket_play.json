@@ -11,6 +11,12 @@
         "icon": "https://me.webcric.com/images/ICC/PAK-BAN.png",
         "isWeb": false
     },
+     {
+        "id": "AusVsWes.json",
+        "name": "🏏 Australia VS West Indies",
+        "icon": "https://me.webcric.com/images/ICC/AUS-WI.png",
+        "isWeb": false
+    },
     {
         "id": "soccer.json",
         "name": "\u26bd Soccer",

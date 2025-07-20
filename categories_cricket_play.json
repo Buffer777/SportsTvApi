@@ -6,15 +6,9 @@
         "isWeb": false
     },
      {
-        "id": "TriSeries.json",
-        "name": "TriSeries.json",
-        "icon": "https://me.webcric.com/images/ICC/AUS-WI.png",
-        "isWeb": false
-    },
-     {
-        "id": "SriVsBan.json",
-        "name": "🏏 Sri Lanka Vs Bangladesh",
-        "icon": "https://me.webcric.com/images/ICC/BAN-SRI.png",
+        "id": "PakVsBan.json",
+        "name": "🏏 Pakistan Vs Bangladesh",
+        "icon": "https://me.webcric.com/images/ICC/PAK-BAN.png",
         "isWeb": false
     },
     {

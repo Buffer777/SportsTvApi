@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Link</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            background-color: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .container {
+            width: 100%;
+            height: 100%;
+            max-width: 100vw;
+            max-height: 100vh;
+        }
+        
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        
+        .error-message {
+            color: white;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            display: none;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                width: 100vw;
+                height: 100vh;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <iframe 
+            id="dynamicIframe"
+            allow="encrypted-media; fullscreen; autoplay" 
+            allowfullscreen="yes"
+            scrolling="no"
+            src="">
+        </iframe>
+        <div id="errorMessage" class="error-message">
+            No ID parameter provided. Please add ?id=YOUR_URL to the page URL.
+        </div>
+    </div>
+
+    <script>
+        function getUrlParameter(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+
+        function loadIframe() {
+            const iframe = document.getElementById('dynamicIframe');
+            const errorMessage = document.getElementById('errorMessage');
+            const id = getUrlParameter('id');
+
+            if (id) {
+                // Decode the URL in case it's encoded
+                const decodedId = decodeURIComponent(id);
+                iframe.src = decodedId;
+                iframe.style.display = 'block';
+                errorMessage.style.display = 'none';
+            } else {
+                iframe.style.display = 'none';
+                errorMessage.style.display = 'block';
+            }
+        }
+
+        // Load iframe when page loads
+        window.addEventListener('load', loadIframe);
+        
+        // Also check for hash changes in case the URL updates
+        window.addEventListener('hashchange', loadIframe);
+        
+        // Listen for URL parameter changes (for single-page app behavior)
+        window.addEventListener('popstate', loadIframe);
+    </script>
+</body>
+</html>

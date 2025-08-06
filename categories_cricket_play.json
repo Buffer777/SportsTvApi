@@ -1,20 +1,14 @@
 [
      {
-        "id": "EngVsInd.json",
-        "name": "🏏 India Vs England",
-        "icon": "https://me.webcric.com/images/ICC/ENG-IND.png",
+        "id": "hundred.json",
+        "name": "🏏 The Hundred",
+        "icon": "https://resources.ecb.co.uk/photo-resources/2023/07/31/77ebef37-70ab-49ac-b462-feef4b954279/TH-clean-16x9.jpg?width=300",
         "isWeb": false
     },
      {
         "id": "PakVsWes.json",
         "name": "🏏 Pakistan Vs West Indies",
         "icon": "https://me.webcric.com/images/ICC/PAK-WI.png",
-        "isWeb": false
-    },
-     {
-        "id": "AusVsWes.json",
-        "name": "🏏 Australia VS West Indies",
-        "icon": "https://me.webcric.com/images/ICC/AUS-WI.png",
         "isWeb": false
     },
     {

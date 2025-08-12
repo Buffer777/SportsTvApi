@@ -1,0 +1,547 @@
+#EXTM3U
+# --- NEWS GROUP ---
+#EXTINF:-1 tvg-id="news001" tvg-name="Global News 001" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/9.png",Global News 001
+http://example.com/stream/news001.m3u8
+#EXTINF:-1 tvg-id="news002" tvg-name="Breaking News 002" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/8.png",Breaking News 002
+http://example.com/stream/news002.m3u8
+#EXTINF:-1 tvg-id="news003" tvg-name="Daily Report 003" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Daily Report 003
+http://example.com/stream/news003.m3u8
+#EXTINF:-1 tvg-id="news004" tvg-name="News Now 004" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",News Now 004
+http://example.com/stream/news004.m3u8
+#EXTINF:-1 tvg-id="news005" tvg-name="World Watch 005" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/17.png",World Watch 005
+http://example.com/stream/news005.m3u8
+#EXTINF:-1 tvg-id="news006" tvg-name="Daily Report 006" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/13.png",Daily Report 006
+http://example.com/stream/news006.m3u8
+#EXTINF:-1 tvg-id="news007" tvg-name="Global News 007" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Global News 007
+http://example.com/stream/news007.m3u8
+#EXTINF:-1 tvg-id="news008" tvg-name="Breaking News 008" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Breaking News 008
+http://example.com/stream/news008.m3u8
+#EXTINF:-1 tvg-id="news009" tvg-name="World Watch 009" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/20.png",World Watch 009
+http://example.com/stream/news009.m3u8
+#EXTINF:-1 tvg-id="news010" tvg-name="World Watch 010" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/20.png",World Watch 010
+http://example.com/stream/news010.m3u8
+#EXTINF:-1 tvg-id="news011" tvg-name="Global News 011" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/12.png",Global News 011
+http://example.com/stream/news011.m3u8
+#EXTINF:-1 tvg-id="news012" tvg-name="Breaking News 012" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/10.png",Breaking News 012
+http://example.com/stream/news012.m3u8
+#EXTINF:-1 tvg-id="news013" tvg-name="News Now 013" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/6.png",News Now 013
+http://example.com/stream/news013.m3u8
+#EXTINF:-1 tvg-id="news014" tvg-name="Global News 014" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/12.png",Global News 014
+http://example.com/stream/news014.m3u8
+#EXTINF:-1 tvg-id="news015" tvg-name="Headline Hub 015" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/3.png",Headline Hub 015
+http://example.com/stream/news015.m3u8
+#EXTINF:-1 tvg-id="news016" tvg-name="Headline Hub 016" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/12.png",Headline Hub 016
+http://example.com/stream/news016.m3u8
+#EXTINF:-1 tvg-id="news017" tvg-name="Daily Report 017" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/9.png",Daily Report 017
+http://example.com/stream/news017.m3u8
+#EXTINF:-1 tvg-id="news018" tvg-name="Breaking News 018" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/1.png",Breaking News 018
+http://example.com/stream/news018.m3u8
+#EXTINF:-1 tvg-id="news019" tvg-name="Daily Report 019" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Daily Report 019
+http://example.com/stream/news019.m3u8
+#EXTINF:-1 tvg-id="news020" tvg-name="World Watch 020" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/6.png",World Watch 020
+http://example.com/stream/news020.m3u8
+#EXTINF:-1 tvg-id="news021" tvg-name="Global News 021" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Global News 021
+http://example.com/stream/news021.m3u8
+#EXTINF:-1 tvg-id="news022" tvg-name="Headline Hub 022" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Headline Hub 022
+http://example.com/stream/news022.m3u8
+#EXTINF:-1 tvg-id="news023" tvg-name="World Watch 023" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",World Watch 023
+http://example.com/stream/news023.m3u8
+#EXTINF:-1 tvg-id="news024" tvg-name="World Watch 024" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",World Watch 024
+http://example.com/stream/news024.m3u8
+#EXTINF:-1 tvg-id="news025" tvg-name="News Now 025" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/3.png",News Now 025
+http://example.com/stream/news025.m3u8
+#EXTINF:-1 tvg-id="news026" tvg-name="World Watch 026" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/19.png",World Watch 026
+http://example.com/stream/news026.m3u8
+#EXTINF:-1 tvg-id="news027" tvg-name="Breaking News 027" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Breaking News 027
+http://example.com/stream/news027.m3u8
+#EXTINF:-1 tvg-id="news028" tvg-name="Daily Report 028" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/9.png",Daily Report 028
+http://example.com/stream/news028.m3u8
+#EXTINF:-1 tvg-id="news029" tvg-name="World Watch 029" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",World Watch 029
+http://example.com/stream/news029.m3u8
+#EXTINF:-1 tvg-id="news030" tvg-name="World Watch 030" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/13.png",World Watch 030
+http://example.com/stream/news030.m3u8
+#EXTINF:-1 tvg-id="news031" tvg-name="World Watch 031" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/8.png",World Watch 031
+http://example.com/stream/news031.m3u8
+#EXTINF:-1 tvg-id="news032" tvg-name="World Watch 032" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/9.png",World Watch 032
+http://example.com/stream/news032.m3u8
+#EXTINF:-1 tvg-id="news033" tvg-name="Daily Report 033" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Daily Report 033
+http://example.com/stream/news033.m3u8
+#EXTINF:-1 tvg-id="news034" tvg-name="World Watch 034" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/8.png",World Watch 034
+http://example.com/stream/news034.m3u8
+#EXTINF:-1 tvg-id="news035" tvg-name="Headline Hub 035" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/13.png",Headline Hub 035
+http://example.com/stream/news035.m3u8
+#EXTINF:-1 tvg-id="news036" tvg-name="Breaking News 036" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Breaking News 036
+http://example.com/stream/news036.m3u8
+#EXTINF:-1 tvg-id="news037" tvg-name="Headline Hub 037" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Headline Hub 037
+http://example.com/stream/news037.m3u8
+#EXTINF:-1 tvg-id="news038" tvg-name="News Now 038" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/3.png",News Now 038
+http://example.com/stream/news038.m3u8
+#EXTINF:-1 tvg-id="news039" tvg-name="Breaking News 039" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/12.png",Breaking News 039
+http://example.com/stream/news039.m3u8
+#EXTINF:-1 tvg-id="news040" tvg-name="World Watch 040" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/3.png",World Watch 040
+http://example.com/stream/news040.m3u8
+#EXTINF:-1 tvg-id="news041" tvg-name="Breaking News 041" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/10.png",Breaking News 041
+http://example.com/stream/news041.m3u8
+#EXTINF:-1 tvg-id="news042" tvg-name="Daily Report 042" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/8.png",Daily Report 042
+http://example.com/stream/news042.m3u8
+#EXTINF:-1 tvg-id="news043" tvg-name="Headline Hub 043" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Headline Hub 043
+http://example.com/stream/news043.m3u8
+#EXTINF:-1 tvg-id="news044" tvg-name="News Now 044" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/20.png",News Now 044
+http://example.com/stream/news044.m3u8
+#EXTINF:-1 tvg-id="news045" tvg-name="Breaking News 045" group-title="News" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Breaking News 045
+http://example.com/stream/news045.m3u8
+# --- SPORTS GROUP ---
+#EXTINF:-1 tvg-id="sports001" tvg-name="Action Sports 001" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/15.png",Action Sports 001
+http://example.com/stream/sports001.m3u8
+#EXTINF:-1 tvg-id="sports002" tvg-name="Pro League Live 002" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/20.png",Pro League Live 002
+http://example.com/stream/sports002.m3u8
+#EXTINF:-1 tvg-id="sports003" tvg-name="Sports Arena 003" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Sports Arena 003
+http://example.com/stream/sports003.m3u8
+#EXTINF:-1 tvg-id="sports004" tvg-name="Goal Time 004" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/20.png",Goal Time 004
+http://example.com/stream/sports004.m3u8
+#EXTINF:-1 tvg-id="sports005" tvg-name="Match Day 005" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/20.png",Match Day 005
+http://example.com/stream/sports005.m3u8
+#EXTINF:-1 tvg-id="sports006" tvg-name="Game Zone 006" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Game Zone 006
+http://example.com/stream/sports006.m3u8
+#EXTINF:-1 tvg-id="sports007" tvg-name="Goal Time 007" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Goal Time 007
+http://example.com/stream/sports007.m3u8
+#EXTINF:-1 tvg-id="sports008" tvg-name="Match Day 008" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/12.png",Match Day 008
+http://example.com/stream/sports008.m3u8
+#EXTINF:-1 tvg-id="sports009" tvg-name="Pro League Live 009" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/3.png",Pro League Live 009
+http://example.com/stream/sports009.m3u8
+#EXTINF:-1 tvg-id="sports010" tvg-name="Pro League Live 010" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/19.png",Pro League Live 010
+http://example.com/stream/sports010.m3u8
+#EXTINF:-1 tvg-id="sports011" tvg-name="Action Sports 011" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/3.png",Action Sports 011
+http://example.com/stream/sports011.m3u8
+#EXTINF:-1 tvg-id="sports012" tvg-name="Goal Time 012" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",Goal Time 012
+http://example.com/stream/sports012.m3u8
+#EXTINF:-1 tvg-id="sports013" tvg-name="Sports Arena 013" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Sports Arena 013
+http://example.com/stream/sports013.m3u8
+#EXTINF:-1 tvg-id="sports014" tvg-name="Sports Arena 014" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/11.png",Sports Arena 014
+http://example.com/stream/sports014.m3u8
+#EXTINF:-1 tvg-id="sports015" tvg-name="Match Day 015" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/15.png",Match Day 015
+http://example.com/stream/sports015.m3u8
+#EXTINF:-1 tvg-id="sports016" tvg-name="Pro League Live 016" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/19.png",Pro League Live 016
+http://example.com/stream/sports016.m3u8
+#EXTINF:-1 tvg-id="sports017" tvg-name="Goal Time 017" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/9.png",Goal Time 017
+http://example.com/stream/sports017.m3u8
+#EXTINF:-1 tvg-id="sports018" tvg-name="Match Day 018" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/2.png",Match Day 018
+http://example.com/stream/sports018.m3u8
+#EXTINF:-1 tvg-id="sports019" tvg-name="Game Zone 019" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Game Zone 019
+http://example.com/stream/sports019.m3u8
+#EXTINF:-1 tvg-id="sports020" tvg-name="Pro League Live 020" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/1.png",Pro League Live 020
+http://example.com/stream/sports020.m3u8
+#EXTINF:-1 tvg-id="sports021" tvg-name="Game Zone 021" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/14.png",Game Zone 021
+http://example.com/stream/sports021.m3u8
+#EXTINF:-1 tvg-id="sports022" tvg-name="Goal Time 022" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/10.png",Goal Time 022
+http://example.com/stream/sports022.m3u8
+#EXTINF:-1 tvg-id="sports023" tvg-name="Pro League Live 023" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",Pro League Live 023
+http://example.com/stream/sports023.m3u8
+#EXTINF:-1 tvg-id="sports024" tvg-name="Match Day 024" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/20.png",Match Day 024
+http://example.com/stream/sports024.m3u8
+#EXTINF:-1 tvg-id="sports025" tvg-name="Game Zone 025" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Game Zone 025
+http://example.com/stream/sports025.m3u8
+#EXTINF:-1 tvg-id="sports026" tvg-name="Game Zone 026" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",Game Zone 026
+http://example.com/stream/sports026.m3u8
+#EXTINF:-1 tvg-id="sports027" tvg-name="Match Day 027" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Match Day 027
+http://example.com/stream/sports027.m3u8
+#EXTINF:-1 tvg-id="sports028" tvg-name="Action Sports 028" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/6.png",Action Sports 028
+http://example.com/stream/sports028.m3u8
+#EXTINF:-1 tvg-id="sports029" tvg-name="Match Day 029" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Match Day 029
+http://example.com/stream/sports029.m3u8
+#EXTINF:-1 tvg-id="sports030" tvg-name="Action Sports 030" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",Action Sports 030
+http://example.com/stream/sports030.m3u8
+#EXTINF:-1 tvg-id="sports031" tvg-name="Goal Time 031" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Goal Time 031
+http://example.com/stream/sports031.m3u8
+#EXTINF:-1 tvg-id="sports032" tvg-name="Match Day 032" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/2.png",Match Day 032
+http://example.com/stream/sports032.m3u8
+#EXTINF:-1 tvg-id="sports033" tvg-name="Goal Time 033" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/11.png",Goal Time 033
+http://example.com/stream/sports033.m3u8
+#EXTINF:-1 tvg-id="sports034" tvg-name="Pro League Live 034" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Pro League Live 034
+http://example.com/stream/sports034.m3u8
+#EXTINF:-1 tvg-id="sports035" tvg-name="Sports Arena 035" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/9.png",Sports Arena 035
+http://example.com/stream/sports035.m3u8
+#EXTINF:-1 tvg-id="sports036" tvg-name="Sports Arena 036" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Sports Arena 036
+http://example.com/stream/sports036.m3u8
+#EXTINF:-1 tvg-id="sports037" tvg-name="Action Sports 037" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/3.png",Action Sports 037
+http://example.com/stream/sports037.m3u8
+#EXTINF:-1 tvg-id="sports038" tvg-name="Match Day 038" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/15.png",Match Day 038
+http://example.com/stream/sports038.m3u8
+#EXTINF:-1 tvg-id="sports039" tvg-name="Match Day 039" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Match Day 039
+http://example.com/stream/sports039.m3u8
+#EXTINF:-1 tvg-id="sports040" tvg-name="Action Sports 040" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Action Sports 040
+http://example.com/stream/sports040.m3u8
+#EXTINF:-1 tvg-id="sports041" tvg-name="Sports Arena 041" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Sports Arena 041
+http://example.com/stream/sports041.m3u8
+#EXTINF:-1 tvg-id="sports042" tvg-name="Game Zone 042" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/11.png",Game Zone 042
+http://example.com/stream/sports042.m3u8
+#EXTINF:-1 tvg-id="sports043" tvg-name="Pro League Live 043" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/10.png",Pro League Live 043
+http://example.com/stream/sports043.m3u8
+#EXTINF:-1 tvg-id="sports044" tvg-name="Sports Arena 044" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/12.png",Sports Arena 044
+http://example.com/stream/sports044.m3u8
+#EXTINF:-1 tvg-id="sports045" tvg-name="Game Zone 045" group-title="Sports" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/2.png",Game Zone 045
+http://example.com/stream/sports045.m3u8
+# --- MOVIES GROUP ---
+#EXTINF:-1 tvg-id="movies001" tvg-name="Silver Screen 001" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/17.png",Silver Screen 001
+http://example.com/stream/movies001.m3u8
+#EXTINF:-1 tvg-id="movies002" tvg-name="Movie Time 002" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/10.png",Movie Time 002
+http://example.com/stream/movies002.m3u8
+#EXTINF:-1 tvg-id="movies003" tvg-name="Movie Time 003" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",Movie Time 003
+http://example.com/stream/movies003.m3u8
+#EXTINF:-1 tvg-id="movies004" tvg-name="Film Mania 004" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/6.png",Film Mania 004
+http://example.com/stream/movies004.m3u8
+#EXTINF:-1 tvg-id="movies005" tvg-name="Blockbuster Zone 005" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/2.png",Blockbuster Zone 005
+http://example.com/stream/movies005.m3u8
+#EXTINF:-1 tvg-id="movies006" tvg-name="Cinema World 006" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Cinema World 006
+http://example.com/stream/movies006.m3u8
+#EXTINF:-1 tvg-id="movies007" tvg-name="Movie Time 007" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Movie Time 007
+http://example.com/stream/movies007.m3u8
+#EXTINF:-1 tvg-id="movies008" tvg-name="Film Mania 008" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Film Mania 008
+http://example.com/stream/movies008.m3u8
+#EXTINF:-1 tvg-id="movies009" tvg-name="Film Mania 009" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/1.png",Film Mania 009
+http://example.com/stream/movies009.m3u8
+#EXTINF:-1 tvg-id="movies010" tvg-name="Cinema World 010" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/3.png",Cinema World 010
+http://example.com/stream/movies010.m3u8
+#EXTINF:-1 tvg-id="movies011" tvg-name="Silver Screen 011" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/10.png",Silver Screen 011
+http://example.com/stream/movies011.m3u8
+#EXTINF:-1 tvg-id="movies012" tvg-name="Silver Screen 012" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/8.png",Silver Screen 012
+http://example.com/stream/movies012.m3u8
+#EXTINF:-1 tvg-id="movies013" tvg-name="Movie Time 013" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/1.png",Movie Time 013
+http://example.com/stream/movies013.m3u8
+#EXTINF:-1 tvg-id="movies014" tvg-name="Cinema World 014" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Cinema World 014
+http://example.com/stream/movies014.m3u8
+#EXTINF:-1 tvg-id="movies015" tvg-name="Movie Time 015" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/13.png",Movie Time 015
+http://example.com/stream/movies015.m3u8
+#EXTINF:-1 tvg-id="movies016" tvg-name="Blockbuster Zone 016" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/11.png",Blockbuster Zone 016
+http://example.com/stream/movies016.m3u8
+#EXTINF:-1 tvg-id="movies017" tvg-name="Movie Time 017" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/2.png",Movie Time 017
+http://example.com/stream/movies017.m3u8
+#EXTINF:-1 tvg-id="movies018" tvg-name="Film Mania 018" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/1.png",Film Mania 018
+http://example.com/stream/movies018.m3u8
+#EXTINF:-1 tvg-id="movies019" tvg-name="Silver Screen 019" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Silver Screen 019
+http://example.com/stream/movies019.m3u8
+#EXTINF:-1 tvg-id="movies020" tvg-name="Cinema World 020" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/17.png",Cinema World 020
+http://example.com/stream/movies020.m3u8
+#EXTINF:-1 tvg-id="movies021" tvg-name="Cine Star 021" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/8.png",Cine Star 021
+http://example.com/stream/movies021.m3u8
+#EXTINF:-1 tvg-id="movies022" tvg-name="Cinema World 022" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/15.png",Cinema World 022
+http://example.com/stream/movies022.m3u8
+#EXTINF:-1 tvg-id="movies023" tvg-name="Film Mania 023" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Film Mania 023
+http://example.com/stream/movies023.m3u8
+#EXTINF:-1 tvg-id="movies024" tvg-name="Film Mania 024" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/11.png",Film Mania 024
+http://example.com/stream/movies024.m3u8
+#EXTINF:-1 tvg-id="movies025" tvg-name="Cinema World 025" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/20.png",Cinema World 025
+http://example.com/stream/movies025.m3u8
+#EXTINF:-1 tvg-id="movies026" tvg-name="Cinema World 026" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Cinema World 026
+http://example.com/stream/movies026.m3u8
+#EXTINF:-1 tvg-id="movies027" tvg-name="Movie Time 027" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/8.png",Movie Time 027
+http://example.com/stream/movies027.m3u8
+#EXTINF:-1 tvg-id="movies028" tvg-name="Blockbuster Zone 028" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Blockbuster Zone 028
+http://example.com/stream/movies028.m3u8
+#EXTINF:-1 tvg-id="movies029" tvg-name="Blockbuster Zone 029" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Blockbuster Zone 029
+http://example.com/stream/movies029.m3u8
+#EXTINF:-1 tvg-id="movies030" tvg-name="Blockbuster Zone 030" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/9.png",Blockbuster Zone 030
+http://example.com/stream/movies030.m3u8
+#EXTINF:-1 tvg-id="movies031" tvg-name="Cinema World 031" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Cinema World 031
+http://example.com/stream/movies031.m3u8
+#EXTINF:-1 tvg-id="movies032" tvg-name="Cine Star 032" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/10.png",Cine Star 032
+http://example.com/stream/movies032.m3u8
+#EXTINF:-1 tvg-id="movies033" tvg-name="Film Mania 033" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/19.png",Film Mania 033
+http://example.com/stream/movies033.m3u8
+#EXTINF:-1 tvg-id="movies034" tvg-name="Movie Time 034" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/19.png",Movie Time 034
+http://example.com/stream/movies034.m3u8
+#EXTINF:-1 tvg-id="movies035" tvg-name="Cinema World 035" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/3.png",Cinema World 035
+http://example.com/stream/movies035.m3u8
+#EXTINF:-1 tvg-id="movies036" tvg-name="Cinema World 036" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Cinema World 036
+http://example.com/stream/movies036.m3u8
+#EXTINF:-1 tvg-id="movies037" tvg-name="Film Mania 037" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/19.png",Film Mania 037
+http://example.com/stream/movies037.m3u8
+#EXTINF:-1 tvg-id="movies038" tvg-name="Cinema World 038" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/12.png",Cinema World 038
+http://example.com/stream/movies038.m3u8
+#EXTINF:-1 tvg-id="movies039" tvg-name="Blockbuster Zone 039" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Blockbuster Zone 039
+http://example.com/stream/movies039.m3u8
+#EXTINF:-1 tvg-id="movies040" tvg-name="Film Mania 040" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/11.png",Film Mania 040
+http://example.com/stream/movies040.m3u8
+#EXTINF:-1 tvg-id="movies041" tvg-name="Movie Time 041" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/15.png",Movie Time 041
+http://example.com/stream/movies041.m3u8
+#EXTINF:-1 tvg-id="movies042" tvg-name="Blockbuster Zone 042" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/14.png",Blockbuster Zone 042
+http://example.com/stream/movies042.m3u8
+#EXTINF:-1 tvg-id="movies043" tvg-name="Silver Screen 043" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Silver Screen 043
+http://example.com/stream/movies043.m3u8
+#EXTINF:-1 tvg-id="movies044" tvg-name="Silver Screen 044" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/14.png",Silver Screen 044
+http://example.com/stream/movies044.m3u8
+#EXTINF:-1 tvg-id="movies045" tvg-name="Film Mania 045" group-title="Movies" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Film Mania 045
+http://example.com/stream/movies045.m3u8
+# --- FASHION GROUP ---
+#EXTINF:-1 tvg-id="fashion001" tvg-name="Style Central 001" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Style Central 001
+http://example.com/stream/fashion001.m3u8
+#EXTINF:-1 tvg-id="fashion002" tvg-name="Catwalk Live 002" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Catwalk Live 002
+http://example.com/stream/fashion002.m3u8
+#EXTINF:-1 tvg-id="fashion003" tvg-name="Fashion Forward 003" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/8.png",Fashion Forward 003
+http://example.com/stream/fashion003.m3u8
+#EXTINF:-1 tvg-id="fashion004" tvg-name="Style Central 004" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/6.png",Style Central 004
+http://example.com/stream/fashion004.m3u8
+#EXTINF:-1 tvg-id="fashion005" tvg-name="Fashion Forward 005" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/3.png",Fashion Forward 005
+http://example.com/stream/fashion005.m3u8
+#EXTINF:-1 tvg-id="fashion006" tvg-name="Fashion Forward 006" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",Fashion Forward 006
+http://example.com/stream/fashion006.m3u8
+#EXTINF:-1 tvg-id="fashion007" tvg-name="Glam TV 007" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/8.png",Glam TV 007
+http://example.com/stream/fashion007.m3u8
+#EXTINF:-1 tvg-id="fashion008" tvg-name="Fashion Forward 008" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/12.png",Fashion Forward 008
+http://example.com/stream/fashion008.m3u8
+#EXTINF:-1 tvg-id="fashion009" tvg-name="Trend Watch 009" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/10.png",Trend Watch 009
+http://example.com/stream/fashion009.m3u8
+#EXTINF:-1 tvg-id="fashion010" tvg-name="Trend Watch 010" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/9.png",Trend Watch 010
+http://example.com/stream/fashion010.m3u8
+#EXTINF:-1 tvg-id="fashion011" tvg-name="Style Central 011" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/17.png",Style Central 011
+http://example.com/stream/fashion011.m3u8
+#EXTINF:-1 tvg-id="fashion012" tvg-name="Glam TV 012" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/12.png",Glam TV 012
+http://example.com/stream/fashion012.m3u8
+#EXTINF:-1 tvg-id="fashion013" tvg-name="Catwalk Live 013" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/15.png",Catwalk Live 013
+http://example.com/stream/fashion013.m3u8
+#EXTINF:-1 tvg-id="fashion014" tvg-name="Trend Watch 014" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/14.png",Trend Watch 014
+http://example.com/stream/fashion014.m3u8
+#EXTINF:-1 tvg-id="fashion015" tvg-name="Trend Watch 015" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/14.png",Trend Watch 015
+http://example.com/stream/fashion015.m3u8
+#EXTINF:-1 tvg-id="fashion016" tvg-name="Vogue Vision 016" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",Vogue Vision 016
+http://example.com/stream/fashion016.m3u8
+#EXTINF:-1 tvg-id="fashion017" tvg-name="Glam TV 017" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",Glam TV 017
+http://example.com/stream/fashion017.m3u8
+#EXTINF:-1 tvg-id="fashion018" tvg-name="Glam TV 018" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/20.png",Glam TV 018
+http://example.com/stream/fashion018.m3u8
+#EXTINF:-1 tvg-id="fashion019" tvg-name="Vogue Vision 019" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Vogue Vision 019
+http://example.com/stream/fashion019.m3u8
+#EXTINF:-1 tvg-id="fashion020" tvg-name="Glam TV 020" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/19.png",Glam TV 020
+http://example.com/stream/fashion020.m3u8
+#EXTINF:-1 tvg-id="fashion021" tvg-name="Catwalk Live 021" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Catwalk Live 021
+http://example.com/stream/fashion021.m3u8
+#EXTINF:-1 tvg-id="fashion022" tvg-name="Trend Watch 022" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/3.png",Trend Watch 022
+http://example.com/stream/fashion022.m3u8
+#EXTINF:-1 tvg-id="fashion023" tvg-name="Fashion Forward 023" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/11.png",Fashion Forward 023
+http://example.com/stream/fashion023.m3u8
+#EXTINF:-1 tvg-id="fashion024" tvg-name="Vogue Vision 024" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Vogue Vision 024
+http://example.com/stream/fashion024.m3u8
+#EXTINF:-1 tvg-id="fashion025" tvg-name="Glam TV 025" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/19.png",Glam TV 025
+http://example.com/stream/fashion025.m3u8
+#EXTINF:-1 tvg-id="fashion026" tvg-name="Fashion Forward 026" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/11.png",Fashion Forward 026
+http://example.com/stream/fashion026.m3u8
+#EXTINF:-1 tvg-id="fashion027" tvg-name="Vogue Vision 027" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Vogue Vision 027
+http://example.com/stream/fashion027.m3u8
+#EXTINF:-1 tvg-id="fashion028" tvg-name="Fashion Forward 028" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",Fashion Forward 028
+http://example.com/stream/fashion028.m3u8
+#EXTINF:-1 tvg-id="fashion029" tvg-name="Catwalk Live 029" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",Catwalk Live 029
+http://example.com/stream/fashion029.m3u8
+#EXTINF:-1 tvg-id="fashion030" tvg-name="Glam TV 030" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Glam TV 030
+http://example.com/stream/fashion030.m3u8
+#EXTINF:-1 tvg-id="fashion031" tvg-name="Catwalk Live 031" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Catwalk Live 031
+http://example.com/stream/fashion031.m3u8
+#EXTINF:-1 tvg-id="fashion032" tvg-name="Vogue Vision 032" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/1.png",Vogue Vision 032
+http://example.com/stream/fashion032.m3u8
+#EXTINF:-1 tvg-id="fashion033" tvg-name="Catwalk Live 033" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/14.png",Catwalk Live 033
+http://example.com/stream/fashion033.m3u8
+#EXTINF:-1 tvg-id="fashion034" tvg-name="Trend Watch 034" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Trend Watch 034
+http://example.com/stream/fashion034.m3u8
+#EXTINF:-1 tvg-id="fashion035" tvg-name="Vogue Vision 035" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/9.png",Vogue Vision 035
+http://example.com/stream/fashion035.m3u8
+#EXTINF:-1 tvg-id="fashion036" tvg-name="Vogue Vision 036" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/2.png",Vogue Vision 036
+http://example.com/stream/fashion036.m3u8
+#EXTINF:-1 tvg-id="fashion037" tvg-name="Catwalk Live 037" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/11.png",Catwalk Live 037
+http://example.com/stream/fashion037.m3u8
+#EXTINF:-1 tvg-id="fashion038" tvg-name="Vogue Vision 038" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/12.png",Vogue Vision 038
+http://example.com/stream/fashion038.m3u8
+#EXTINF:-1 tvg-id="fashion039" tvg-name="Catwalk Live 039" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/13.png",Catwalk Live 039
+http://example.com/stream/fashion039.m3u8
+#EXTINF:-1 tvg-id="fashion040" tvg-name="Glam TV 040" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Glam TV 040
+http://example.com/stream/fashion040.m3u8
+#EXTINF:-1 tvg-id="fashion041" tvg-name="Fashion Forward 041" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Fashion Forward 041
+http://example.com/stream/fashion041.m3u8
+#EXTINF:-1 tvg-id="fashion042" tvg-name="Vogue Vision 042" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Vogue Vision 042
+http://example.com/stream/fashion042.m3u8
+#EXTINF:-1 tvg-id="fashion043" tvg-name="Fashion Forward 043" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Fashion Forward 043
+http://example.com/stream/fashion043.m3u8
+#EXTINF:-1 tvg-id="fashion044" tvg-name="Catwalk Live 044" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Catwalk Live 044
+http://example.com/stream/fashion044.m3u8
+#EXTINF:-1 tvg-id="fashion045" tvg-name="Vogue Vision 045" group-title="Fashion" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Vogue Vision 045
+http://example.com/stream/fashion045.m3u8
+# --- KIDS GROUP ---
+#EXTINF:-1 tvg-id="kids001" tvg-name="Toon Time 001" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/1.png",Toon Time 001
+http://example.com/stream/kids001.m3u8
+#EXTINF:-1 tvg-id="kids002" tvg-name="Toon Time 002" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/11.png",Toon Time 002
+http://example.com/stream/kids002.m3u8
+#EXTINF:-1 tvg-id="kids003" tvg-name="Fun Kids TV 003" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/3.png",Fun Kids TV 003
+http://example.com/stream/kids003.m3u8
+#EXTINF:-1 tvg-id="kids004" tvg-name="Fun Kids TV 004" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/11.png",Fun Kids TV 004
+http://example.com/stream/kids004.m3u8
+#EXTINF:-1 tvg-id="kids005" tvg-name="Cartoon Blast 005" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/13.png",Cartoon Blast 005
+http://example.com/stream/kids005.m3u8
+#EXTINF:-1 tvg-id="kids006" tvg-name="Playhouse TV 006" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Playhouse TV 006
+http://example.com/stream/kids006.m3u8
+#EXTINF:-1 tvg-id="kids007" tvg-name="Kiddy Club 007" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/2.png",Kiddy Club 007
+http://example.com/stream/kids007.m3u8
+#EXTINF:-1 tvg-id="kids008" tvg-name="Playhouse TV 008" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Playhouse TV 008
+http://example.com/stream/kids008.m3u8
+#EXTINF:-1 tvg-id="kids009" tvg-name="Junior World 009" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/2.png",Junior World 009
+http://example.com/stream/kids009.m3u8
+#EXTINF:-1 tvg-id="kids010" tvg-name="Junior World 010" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/15.png",Junior World 010
+http://example.com/stream/kids010.m3u8
+#EXTINF:-1 tvg-id="kids011" tvg-name="Fun Kids TV 011" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/20.png",Fun Kids TV 011
+http://example.com/stream/kids011.m3u8
+#EXTINF:-1 tvg-id="kids012" tvg-name="Playhouse TV 012" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/15.png",Playhouse TV 012
+http://example.com/stream/kids012.m3u8
+#EXTINF:-1 tvg-id="kids013" tvg-name="Fun Kids TV 013" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Fun Kids TV 013
+http://example.com/stream/kids013.m3u8
+#EXTINF:-1 tvg-id="kids014" tvg-name="Junior World 014" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Junior World 014
+http://example.com/stream/kids014.m3u8
+#EXTINF:-1 tvg-id="kids015" tvg-name="Toon Time 015" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/9.png",Toon Time 015
+http://example.com/stream/kids015.m3u8
+#EXTINF:-1 tvg-id="kids016" tvg-name="Junior World 016" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/12.png",Junior World 016
+http://example.com/stream/kids016.m3u8
+#EXTINF:-1 tvg-id="kids017" tvg-name="Playhouse TV 017" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Playhouse TV 017
+http://example.com/stream/kids017.m3u8
+#EXTINF:-1 tvg-id="kids018" tvg-name="Cartoon Blast 018" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/20.png",Cartoon Blast 018
+http://example.com/stream/kids018.m3u8
+#EXTINF:-1 tvg-id="kids019" tvg-name="Toon Time 019" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Toon Time 019
+http://example.com/stream/kids019.m3u8
+#EXTINF:-1 tvg-id="kids020" tvg-name="Fun Kids TV 020" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/13.png",Fun Kids TV 020
+http://example.com/stream/kids020.m3u8
+#EXTINF:-1 tvg-id="kids021" tvg-name="Toon Time 021" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/13.png",Toon Time 021
+http://example.com/stream/kids021.m3u8
+#EXTINF:-1 tvg-id="kids022" tvg-name="Playhouse TV 022" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/19.png",Playhouse TV 022
+http://example.com/stream/kids022.m3u8
+#EXTINF:-1 tvg-id="kids023" tvg-name="Cartoon Blast 023" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/8.png",Cartoon Blast 023
+http://example.com/stream/kids023.m3u8
+#EXTINF:-1 tvg-id="kids024" tvg-name="Fun Kids TV 024" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/13.png",Fun Kids TV 024
+http://example.com/stream/kids024.m3u8
+#EXTINF:-1 tvg-id="kids025" tvg-name="Kiddy Club 025" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Kiddy Club 025
+http://example.com/stream/kids025.m3u8
+#EXTINF:-1 tvg-id="kids026" tvg-name="Fun Kids TV 026" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/8.png",Fun Kids TV 026
+http://example.com/stream/kids026.m3u8
+#EXTINF:-1 tvg-id="kids027" tvg-name="Fun Kids TV 027" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/14.png",Fun Kids TV 027
+http://example.com/stream/kids027.m3u8
+#EXTINF:-1 tvg-id="kids028" tvg-name="Kiddy Club 028" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/13.png",Kiddy Club 028
+http://example.com/stream/kids028.m3u8
+#EXTINF:-1 tvg-id="kids029" tvg-name="Toon Time 029" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",Toon Time 029
+http://example.com/stream/kids029.m3u8
+#EXTINF:-1 tvg-id="kids030" tvg-name="Junior World 030" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/17.png",Junior World 030
+http://example.com/stream/kids030.m3u8
+#EXTINF:-1 tvg-id="kids031" tvg-name="Fun Kids TV 031" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Fun Kids TV 031
+http://example.com/stream/kids031.m3u8
+#EXTINF:-1 tvg-id="kids032" tvg-name="Junior World 032" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/19.png",Junior World 032
+http://example.com/stream/kids032.m3u8
+#EXTINF:-1 tvg-id="kids033" tvg-name="Kiddy Club 033" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/11.png",Kiddy Club 033
+http://example.com/stream/kids033.m3u8
+#EXTINF:-1 tvg-id="kids034" tvg-name="Junior World 034" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/3.png",Junior World 034
+http://example.com/stream/kids034.m3u8
+#EXTINF:-1 tvg-id="kids035" tvg-name="Cartoon Blast 035" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/9.png",Cartoon Blast 035
+http://example.com/stream/kids035.m3u8
+#EXTINF:-1 tvg-id="kids036" tvg-name="Junior World 036" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Junior World 036
+http://example.com/stream/kids036.m3u8
+#EXTINF:-1 tvg-id="kids037" tvg-name="Kiddy Club 037" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/10.png",Kiddy Club 037
+http://example.com/stream/kids037.m3u8
+#EXTINF:-1 tvg-id="kids038" tvg-name="Cartoon Blast 038" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",Cartoon Blast 038
+http://example.com/stream/kids038.m3u8
+#EXTINF:-1 tvg-id="kids039" tvg-name="Fun Kids TV 039" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Fun Kids TV 039
+http://example.com/stream/kids039.m3u8
+#EXTINF:-1 tvg-id="kids040" tvg-name="Cartoon Blast 040" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/17.png",Cartoon Blast 040
+http://example.com/stream/kids040.m3u8
+#EXTINF:-1 tvg-id="kids041" tvg-name="Toon Time 041" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/10.png",Toon Time 041
+http://example.com/stream/kids041.m3u8
+#EXTINF:-1 tvg-id="kids042" tvg-name="Playhouse TV 042" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Playhouse TV 042
+http://example.com/stream/kids042.m3u8
+#EXTINF:-1 tvg-id="kids043" tvg-name="Kiddy Club 043" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/13.png",Kiddy Club 043
+http://example.com/stream/kids043.m3u8
+#EXTINF:-1 tvg-id="kids044" tvg-name="Fun Kids TV 044" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/14.png",Fun Kids TV 044
+http://example.com/stream/kids044.m3u8
+#EXTINF:-1 tvg-id="kids045" tvg-name="Junior World 045" group-title="Kids" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/15.png",Junior World 045
+http://example.com/stream/kids045.m3u8
+# --- MUSIC GROUP ---
+#EXTINF:-1 tvg-id="music001" tvg-name="Melody Mix 001" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Melody Mix 001
+http://example.com/stream/music001.m3u8
+#EXTINF:-1 tvg-id="music002" tvg-name="Music Mania 002" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Music Mania 002
+http://example.com/stream/music002.m3u8
+#EXTINF:-1 tvg-id="music003" tvg-name="Hit Tunes 003" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/4.png",Hit Tunes 003
+http://example.com/stream/music003.m3u8
+#EXTINF:-1 tvg-id="music004" tvg-name="Sound Wave 004" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/9.png",Sound Wave 004
+http://example.com/stream/music004.m3u8
+#EXTINF:-1 tvg-id="music005" tvg-name="Sound Wave 005" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/19.png",Sound Wave 005
+http://example.com/stream/music005.m3u8
+#EXTINF:-1 tvg-id="music006" tvg-name="Melody Mix 006" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/19.png",Melody Mix 006
+http://example.com/stream/music006.m3u8
+#EXTINF:-1 tvg-id="music007" tvg-name="Music Mania 007" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Music Mania 007
+http://example.com/stream/music007.m3u8
+#EXTINF:-1 tvg-id="music008" tvg-name="Music Mania 008" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/10.png",Music Mania 008
+http://example.com/stream/music008.m3u8
+#EXTINF:-1 tvg-id="music009" tvg-name="Rhythm Live 009" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/12.png",Rhythm Live 009
+http://example.com/stream/music009.m3u8
+#EXTINF:-1 tvg-id="music010" tvg-name="Hit Tunes 010" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Hit Tunes 010
+http://example.com/stream/music010.m3u8
+#EXTINF:-1 tvg-id="music011" tvg-name="Rhythm Live 011" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Rhythm Live 011
+http://example.com/stream/music011.m3u8
+#EXTINF:-1 tvg-id="music012" tvg-name="Music Mania 012" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/10.png",Music Mania 012
+http://example.com/stream/music012.m3u8
+#EXTINF:-1 tvg-id="music013" tvg-name="Melody Mix 013" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/13.png",Melody Mix 013
+http://example.com/stream/music013.m3u8
+#EXTINF:-1 tvg-id="music014" tvg-name="Beat Box 014" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/20.png",Beat Box 014
+http://example.com/stream/music014.m3u8
+#EXTINF:-1 tvg-id="music015" tvg-name="Music Mania 015" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Music Mania 015
+http://example.com/stream/music015.m3u8
+#EXTINF:-1 tvg-id="music016" tvg-name="Sound Wave 016" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/15.png",Sound Wave 016
+http://example.com/stream/music016.m3u8
+#EXTINF:-1 tvg-id="music017" tvg-name="Melody Mix 017" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Melody Mix 017
+http://example.com/stream/music017.m3u8
+#EXTINF:-1 tvg-id="music018" tvg-name="Sound Wave 018" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/1.png",Sound Wave 018
+http://example.com/stream/music018.m3u8
+#EXTINF:-1 tvg-id="music019" tvg-name="Rhythm Live 019" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/9.png",Rhythm Live 019
+http://example.com/stream/music019.m3u8
+#EXTINF:-1 tvg-id="music020" tvg-name="Rhythm Live 020" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Rhythm Live 020
+http://example.com/stream/music020.m3u8
+#EXTINF:-1 tvg-id="music021" tvg-name="Beat Box 021" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/19.png",Beat Box 021
+http://example.com/stream/music021.m3u8
+#EXTINF:-1 tvg-id="music022" tvg-name="Sound Wave 022" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/2.png",Sound Wave 022
+http://example.com/stream/music022.m3u8
+#EXTINF:-1 tvg-id="music023" tvg-name="Melody Mix 023" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Melody Mix 023
+http://example.com/stream/music023.m3u8
+#EXTINF:-1 tvg-id="music024" tvg-name="Music Mania 024" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/8.png",Music Mania 024
+http://example.com/stream/music024.m3u8
+#EXTINF:-1 tvg-id="music025" tvg-name="Hit Tunes 025" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/2.png",Hit Tunes 025
+http://example.com/stream/music025.m3u8
+#EXTINF:-1 tvg-id="music026" tvg-name="Hit Tunes 026" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/6.png",Hit Tunes 026
+http://example.com/stream/music026.m3u8
+#EXTINF:-1 tvg-id="music027" tvg-name="Sound Wave 027" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/14.png",Sound Wave 027
+http://example.com/stream/music027.m3u8
+#EXTINF:-1 tvg-id="music028" tvg-name="Beat Box 028" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Beat Box 028
+http://example.com/stream/music028.m3u8
+#EXTINF:-1 tvg-id="music029" tvg-name="Hit Tunes 029" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/6.png",Hit Tunes 029
+http://example.com/stream/music029.m3u8
+#EXTINF:-1 tvg-id="music030" tvg-name="Beat Box 030" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Beat Box 030
+http://example.com/stream/music030.m3u8
+#EXTINF:-1 tvg-id="music031" tvg-name="Sound Wave 031" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/18.png",Sound Wave 031
+http://example.com/stream/music031.m3u8
+#EXTINF:-1 tvg-id="music032" tvg-name="Hit Tunes 032" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/20.png",Hit Tunes 032
+http://example.com/stream/music032.m3u8
+#EXTINF:-1 tvg-id="music033" tvg-name="Rhythm Live 033" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/1.png",Rhythm Live 033
+http://example.com/stream/music033.m3u8
+#EXTINF:-1 tvg-id="music034" tvg-name="Beat Box 034" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/1.png",Beat Box 034
+http://example.com/stream/music034.m3u8
+#EXTINF:-1 tvg-id="music035" tvg-name="Music Mania 035" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/16.png",Music Mania 035
+http://example.com/stream/music035.m3u8
+#EXTINF:-1 tvg-id="music036" tvg-name="Sound Wave 036" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/13.png",Sound Wave 036
+http://example.com/stream/music036.m3u8
+#EXTINF:-1 tvg-id="music037" tvg-name="Melody Mix 037" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/13.png",Melody Mix 037
+http://example.com/stream/music037.m3u8
+#EXTINF:-1 tvg-id="music038" tvg-name="Sound Wave 038" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/21.png",Sound Wave 038
+http://example.com/stream/music038.m3u8
+#EXTINF:-1 tvg-id="music039" tvg-name="Melody Mix 039" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/14.png",Melody Mix 039
+http://example.com/stream/music039.m3u8
+#EXTINF:-1 tvg-id="music040" tvg-name="Sound Wave 040" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/14.png",Sound Wave 040
+http://example.com/stream/music040.m3u8
+#EXTINF:-1 tvg-id="music041" tvg-name="Beat Box 041" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Beat Box 041
+http://example.com/stream/music041.m3u8
+#EXTINF:-1 tvg-id="music042" tvg-name="Rhythm Live 042" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/11.png",Rhythm Live 042
+http://example.com/stream/music042.m3u8
+#EXTINF:-1 tvg-id="music043" tvg-name="Hit Tunes 043" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/5.png",Hit Tunes 043
+http://example.com/stream/music043.m3u8
+#EXTINF:-1 tvg-id="music044" tvg-name="Sound Wave 044" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/7.png",Sound Wave 044
+http://example.com/stream/music044.m3u8
+#EXTINF:-1 tvg-id="music045" tvg-name="Melody Mix 045" group-title="Music" tvg-logo="https://buffer777.github.io/SportsTvApi/Film%20News/12.png",Melody Mix 045
+http://example.com/stream/music045.m3u8

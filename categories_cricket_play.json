@@ -1,20 +1,8 @@
 [
      {
-        "id": "AusVsSaf.json",
-        "name": "🏏 England VS South Africa",
-        "icon": "https://static.vecteezy.com/system/resources/previews/019/467/680/large_2x/england-vs-south-africa-cricket-flags-with-shield-celebration-stadium-3d-illustration-photo.jpg",
-        "isWeb": false
-    },
-     {
-        "id": "asiat20.json",
-        "name": "🏏 AsiaCup 2025",
-        "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Asia_Cup_Logo.png/512px-Asia_Cup_Logo.png",
-        "isWeb": false
-    },
-     {
-        "id": "hundred.json",
-        "name": "🏏 The Hundred",
-        "icon": "https://resources.ecb.co.uk/photo-resources/2023/07/31/77ebef37-70ab-49ac-b462-feef4b954279/TH-clean-16x9.jpg?width=300",
+        "id": "womenworld.json",
+        "name": "🏏 W-WorldCup 2025",
+        "icon": "https://i.pinimg.com/1200x/79/66/3e/79663ebc4621b2fb10e71f3af1c0892c.jpg",
         "isWeb": false
     },
     {

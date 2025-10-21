@@ -5,6 +5,7 @@
     "webBlockFilter": [
         "blast",
         "js15_as",
+        "emb",
         ".webm",
         ".mp4",
         ".mp3",

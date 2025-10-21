@@ -4,6 +4,7 @@
     "showPlayTube": false,
     "webBlockFilter": [
         "blast",
+        "js15_as",
         ".webm",
         ".mp4",
         ".mp3",

@@ -17,12 +17,6 @@
         "icon": "https://me.webcric.com/images/ICC/ENG-NZ.png",
         "isWeb": false
     },
-     {
-        "id": "womenworld.json",
-        "name": "🏏 W-WorldCup 2025",
-        "icon": "https://i.pinimg.com/1200x/79/66/3e/79663ebc4621b2fb10e71f3af1c0892c.jpg",
-        "isWeb": false
-    },
     {
         "id": "soccer.json",
         "name": "\u26bd Soccer",

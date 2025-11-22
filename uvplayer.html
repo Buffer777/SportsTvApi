@@ -156,6 +156,15 @@
       return headers;
     }
 
+    function getProxyUrl(url) {
+      const proxy = getUrlParameter('proxy');
+      if (proxy) {
+        const decodedProxy = decodeURIComponent(proxy);
+        return decodedProxy + encodeURIComponent(url);
+      }
+      return url;
+    }
+
     function showError(message, details = '') {
       document.getElementById('loading').style.display = 'none';
       const errorDiv = document.createElement('div');

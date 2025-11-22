@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Live Stream Player</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/clapper/1.4.3/clapper.min.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.6.1/video-js.min.css" rel="stylesheet">
   <style>
     * {
       margin: 0;
@@ -27,9 +27,14 @@
       background: #000;
     }
 
-    #player {
+    #video-player {
       width: 100%;
       height: 100%;
+    }
+
+    .vjs-theme-fantasy {
+      --vjs-theme-fantasy--primary: #667eea;
+      --vjs-theme-fantasy--secondary: #764ba2;
     }
 
     .error-message {
@@ -122,19 +127,33 @@
   </div>
 
   <div class="player-container">
-    <div id="player"></div>
+    <video id="video-player" class="video-js vjs-big-play-centered" controls preload="auto"></video>
   </div>
 
   <div id="info" class="info-overlay"></div>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/clapper/1.4.3/clapper.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.6.1/video.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.4.12/hls.min.js"></script>
   <script>
     let player;
+    let hls;
 
     function getUrlParameter(name) {
       const urlParams = new URLSearchParams(window.location.search);
       return urlParams.get(name);
+    }
+
+    function getCustomHeaders() {
+      const headers = {};
+      const referer = getUrlParameter('referer');
+      const origin = getUrlParameter('origin');
+      const userAgent = getUrlParameter('useragent');
+
+      if (referer) headers['Referer'] = decodeURIComponent(referer);
+      if (origin) headers['Origin'] = decodeURIComponent(origin);
+      if (userAgent) headers['User-Agent'] = decodeURIComponent(userAgent);
+
+      return headers;
     }
 
     function showError(message, details = '') {
@@ -169,55 +188,101 @@
       } else if (urlLower.endsWith('.webm')) {
         return 'video/webm';
       }
-      return 'application/x-mpegURL'; // Default to HLS
+      return 'application/x-mpegURL';
     }
 
     function initPlayer(streamUrl) {
       try {
-        const container = document.getElementById('player');
+        const videoElement = document.getElementById('video-player');
         const streamType = getStreamType(streamUrl);
+        const customHeaders = getCustomHeaders();
 
-        // Configure player based on stream type
-        const config = {
-          container: container,
-          sources: [{
+        // Initialize Video.js player
+        player = videojs('video-player', {
+          controls: true,
+          autoplay: true,
+          preload: 'auto',
+          fluid: true,
+          responsive: true,
+          aspectRatio: '16:9'
+        });
+
+        // For HLS streams with custom headers, use HLS.js directly
+        if (streamType === 'application/x-mpegURL' && Hls.isSupported()) {
+          hls = new Hls({
+            enableWorker: true,
+            lowLatencyMode: true,
+            backBufferLength: 90,
+            xhrSetup: function(xhr, url) {
+              // Apply custom headers to all requests
+              Object.keys(customHeaders).forEach(key => {
+                try {
+                  xhr.setRequestHeader(key, customHeaders[key]);
+                } catch (e) {
+                  console.warn(`Could not set header ${key}:`, e.message);
+                }
+              });
+            }
+          });
+
+          hls.loadSource(streamUrl);
+          hls.attachMedia(videoElement);
+
+          hls.on(Hls.Events.MANIFEST_PARSED, function() {
+            document.getElementById('loading').style.display = 'none';
+            videoElement.play().catch(err => {
+              console.log('Autoplay prevented:', err);
+            });
+            
+            if (Object.keys(customHeaders).length > 0) {
+              console.log('Using custom headers:', customHeaders);
+              showInfo('Custom headers applied');
+            } else {
+              showInfo('Stream loaded successfully');
+            }
+          });
+
+          hls.on(Hls.Events.ERROR, function(event, data) {
+            console.error('HLS error:', data);
+            if (data.fatal) {
+              switch(data.type) {
+                case Hls.ErrorTypes.NETWORK_ERROR:
+                  showError('Network error', 'Failed to load stream. Check URL and network connection.');
+                  hls.startLoad();
+                  break;
+                case Hls.ErrorTypes.MEDIA_ERROR:
+                  showError('Media error', 'Failed to decode stream.');
+                  hls.recoverMediaError();
+                  break;
+                default:
+                  showError('Fatal error', 'Cannot recover from error.');
+                  hls.destroy();
+                  break;
+              }
+            }
+          });
+        } else if (videoElement.canPlayType(streamType)) {
+          // For native playback (MP4, WebM, or native HLS on Safari)
+          player.src({
             src: streamUrl,
             type: streamType
-          }],
-          autoplay: true,
-          muted: false,
-          volume: 0.8,
-          controls: true,
-          fluid: true,
-          aspectRatio: '16:9'
-        };
+          });
 
-        // For HLS streams, add HLS.js configuration
-        if (streamType === 'application/x-mpegURL' && typeof Hls !== 'undefined') {
-          if (Hls.isSupported()) {
-            config.hls = {
-              hlsConfig: {
-                enableWorker: true,
-                lowLatencyMode: true,
-                backBufferLength: 90
-              }
-            };
-          }
+          player.ready(function() {
+            document.getElementById('loading').style.display = 'none';
+            this.play().catch(err => {
+              console.log('Autoplay prevented:', err);
+            });
+            showInfo('Stream loaded successfully');
+          });
+
+          player.on('error', function() {
+            const error = player.error();
+            showError('Playback error', error ? error.message : 'Unknown error occurred');
+          });
+        } else {
+          showError('Unsupported format', 'Your browser does not support this video format.');
         }
-
-        player = new Clapper.Player(config);
-
-        // Hide loading indicator when ready
-        player.on('canplay', () => {
-          document.getElementById('loading').style.display = 'none';
-          showInfo('Stream loaded successfully');
-        });
-
-        // Handle errors
-        player.on('error', (error) => {
-          console.error('Player error:', error);
-          showError('Failed to load stream', 'Please check if the URL is valid and accessible');
-        });
 
       } catch (error) {
         console.error('Initialization error:', error);
@@ -232,22 +297,24 @@
       if (!streamUrl) {
         showError(
           'No stream URL provided',
-          'Usage: dynamic.html?id=YOUR_M3U8_URL'
+          'Usage: dynamic.html?id=YOUR_M3U8_URL&referer=REFERER&origin=ORIGIN&useragent=USER_AGENT'
         );
         return;
       }
 
-      // Decode URL if it's encoded
       const decodedUrl = decodeURIComponent(streamUrl);
-      
       console.log('Loading stream:', decodedUrl);
+      
       initPlayer(decodedUrl);
     });
 
-    // Handle visibility change to resume playback
-    document.addEventListener('visibilitychange', () => {
-      if (player && !document.hidden) {
-        player.play().catch(err => console.log('Autoplay prevented:', err));
+    // Cleanup on page unload
+    window.addEventListener('beforeunload', () => {
+      if (hls) {
+        hls.destroy();
+      }
+      if (player) {
+        player.dispose();
       }
     });
   </script>

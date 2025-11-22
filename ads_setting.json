@@ -4,6 +4,7 @@
     "showPlayTube": false,
     "webBlockFilter": [
         "blast",
+        "cam.edu",
         ".webm",
         ".mp4",
         ".mp3",

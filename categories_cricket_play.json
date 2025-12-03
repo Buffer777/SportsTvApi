@@ -6,15 +6,15 @@
         "isWeb": false
     },
      {
-        "id": "trination.json",
-        "name": "🏏 Tri Nation series",
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8cpu2B9pPrILL4nTWlM_e9ZsKL67UaBii0g&s",
+        "id": "ashes.json",
+        "name": "🏏 Australia VS England",
+        "icon": "https://i.pinimg.com/736x/1f/28/e9/1f28e9a409d5bac5dee96767e2c74882.jpg",
         "isWeb": false
     },
      {
-        "id": "ENGVsNZE.json",
-        "name": "🏏 England VS New zeland",
-        "icon": "https://me.webcric.com/images/ICC/ENG-NZ.png",
+        "id": "NzeVsWes.json",
+        "name": "🏏 WestIndies Vs NewZealand",
+        "icon": "https://me.webcric.com/images/ICC/NZ-WI.png",
         "isWeb": false
     },
     {

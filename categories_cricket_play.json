@@ -6,6 +6,12 @@
         "isWeb": false
     },
      {
+        "id": "bbl.json",
+        "name": "🏏 BBL 2025",
+        "icon": "https://me.webcric.com/images/bbl6.png",
+        "isWeb": false
+    },
+     {
         "id": "ashes.json",
         "name": "🏏 Australia VS England",
         "icon": "https://i.pinimg.com/736x/1f/28/e9/1f28e9a409d5bac5dee96767e2c74882.jpg",

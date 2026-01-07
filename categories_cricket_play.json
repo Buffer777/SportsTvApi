@@ -1,14 +1,8 @@
 [
      {
-        "id": "SafVsInd.json",
-        "name": "🏏 South Africa VS India",
-        "icon": "https://me.webcric.com/images/ICC/IND-SAF.png",
-        "isWeb": false
-    },
-     {
-        "id": "champ.json",
-        "name": "🏏 (U19) Pakistan( Vs India",
-        "icon": "https://me.webcric.com/images/ICC/PAK-IND.png",
+        "id": "PakVsSri.json",
+        "name": "🏏 PAKISTAN Vs SRILANKA",
+        "icon": "https://me.webcric.com/images/ICC/PAK-SRI.png",
         "isWeb": false
     },
      {
@@ -21,12 +15,6 @@
         "id": "ashes.json",
         "name": "🏏 Australia VS England",
         "icon": "https://i.pinimg.com/736x/1f/28/e9/1f28e9a409d5bac5dee96767e2c74882.jpg",
-        "isWeb": false
-    },
-     {
-        "id": "NzeVsWes.json",
-        "name": "🏏 WestIndies Vs NewZealand",
-        "icon": "https://me.webcric.com/images/ICC/NZ-WI.png",
         "isWeb": false
     },
     {

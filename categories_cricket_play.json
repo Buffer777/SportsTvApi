@@ -1,5 +1,11 @@
 [
      {
+        "id": "SafVsInd.json",
+        "name": "🏏 Pakistan VS Australia",
+        "icon": "https://me.webcric.com/images/ICC/PAK-AUS.png",
+        "isWeb": false
+    },
+     {
         "id": "NZEVsIND.json",
         "name": "🏏 New Zealand Vs India",
         "icon": "https://me.webcric.com/images/ICC/NZ-IND.png",

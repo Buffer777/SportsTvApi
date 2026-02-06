@@ -1,26 +1,8 @@
 [
      {
-        "id": "SafVsInd.json",
-        "name": "🏏 Pakistan VS Australia",
-        "icon": "https://me.webcric.com/images/ICC/PAK-AUS.png",
-        "isWeb": false
-    },
-     {
-        "id": "NZEVsIND.json",
-        "name": "🏏 New Zealand Vs India",
-        "icon": "https://me.webcric.com/images/ICC/NZ-IND.png",
-        "isWeb": false
-    },
-     {
-        "id": "bbl.json",
-        "name": "🏏 BBL 2025",
-        "icon": "https://me.webcric.com/images/bbl6.png",
-        "isWeb": false
-    },
-     {
-        "id": "ashes.json",
-        "name": "🏏 Australia VS England",
-        "icon": "https://i.pinimg.com/736x/1f/28/e9/1f28e9a409d5bac5dee96767e2c74882.jpg",
+        "id": "t20world.json",
+        "name": "🏏 ICC T20 World Cup 2026",
+        "icon": "https://i.pinimg.com/1200x/e1/f0/7a/e1f07a5bfd96c263f875c4d4d658ad5c.jpg",
         "isWeb": false
     },
     {

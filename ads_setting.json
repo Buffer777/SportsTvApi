@@ -3,6 +3,7 @@
     "maxCount": 7,
     "showPlayTube": false,
     "webBlockFilter": [
+        "lolo_20260723_15",
         "assets/sb.js",
         "assets/sunb.js",
         "assets/player.js",

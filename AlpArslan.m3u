@@ -187,3 +187,7 @@ https://cdn5.urduflix.pk/NiaziPlay/Alp-Arslan/Urdu-Dubbed/S1/Episode-97.mp4/inde
 https://cdn5.urduflix.pk/NiaziPlay/Alp-Arslan/Urdu-Dubbed/S1/Episode-98.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWNhNjEyNWEtYTA0ZS00M2FlLTkzYmMtMWQxMWUyNDM2MDhmXkEyXkFqcGc@._V1_.jpg",Episode-99
 https://turktvuk.com/cdn/hls/f5ee52fd9cfe0f71947920be471498d6/master.txt|accept=*/*|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWNhNjEyNWEtYTA0ZS00M2FlLTkzYmMtMWQxMWUyNDM2MDhmXkEyXkFqcGc@._V1_.jpg",Episode-100
+https://turktvuk.com/cdn/hls/564227f54beb39c94ebdd153b3a3f810/master.txt|accept=*/*|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWNhNjEyNWEtYTA0ZS00M2FlLTkzYmMtMWQxMWUyNDM2MDhmXkEyXkFqcGc@._V1_.jpg",Episode-101
+https://turktvuk.com/cdn/hls/ad4ceab14558f4c4f252097bbfc9096d/master.txt|accept=*/*|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
